@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Sales,Discount,Profit,Region,City
+ORD00051,2025-01-01,CUST0134,Desk,Furniture,5,1141.13,0.0,271.86,North,Lucknow
+ORD00798,2025-01-01,CUST0221,Bookshelf,Furniture,2,253.26,0.05,50.44,South,Kochi
+ORD00553,2025-01-01,CUST0230,Laptop,Electronics,4,1926.22,0.2,142.8,North,Delhi
+ORD00029,2025-01-02,CUST0100,Headphones,Accessories,2,145.87,0.1,40.05,East,Ranchi
+ORD00828,2025-01-02,CUST0040,Backpack,Bags,5,258.1,0.2,56.34,West,Surat
+ORD00685,2025-01-02,CUST0160,Webcam,Accessories,2,183.55,0.0,34.49,East,Patna
+ORD00686,2025-01-03,CUST0156,Bookshelf,Furniture,4,501.27,0.1,95.41,West,Mumbai
+ORD00059,2025-01-03,CUST0229,Printer,Electronics,4,648.98,0.1,107.29,South,Kochi
+ORD00709,2025-01-03,CUST0080,Tablet,Electronics,4,1051.08,0.1,205.0,South,Bengaluru
+ORD00259,2025-01-04,CUST0067,Smartphone,Electronics,2,895.94,0.0,172.77,East,Kolkata
+ORD00003,2025-01-04,CUST0195,Desk,Furniture,2,439.71,0.1,57.7,South,Kochi
+ORD00122,2025-01-05,CUST0231,Office Chair,Furniture,4,547.66,0.2,88.27,South,Chennai
+ORD00382,2025-01-05,CUST0244,Laptop,Electronics,2,1071.06,0.15,78.23,East,Kolkata
+ORD00574,2025-01-05,CUST0180,Bookshelf,Furniture,3,382.97,0.1,75.19,South,Chennai
+ORD00260,2025-01-06,CUST0067,Headphones,Accessories,3,205.28,0.05,40.06,South,Kochi
+ORD00904,2025-01-06,CUST0121,Backpack,Bags,3,171.86,0.15,27.98,East,Bhubaneswar
+ORD00741,2025-01-06,CUST0121,Printer,Electronics,5,1026.68,0.0,280.28,North,Jaipur
+ORD00392,2025-01-07,CUST0016,Webcam,Accessories,4,360.66,0.0,126.96,South,Bengaluru
+ORD00795,2025-01-07,CUST0178,Headphones,Accessories,1,67.44,0.1,19.74,East,Ranchi
+ORD00502,2025-01-07,CUST0134,Mouse,Accessories,5,153.26,0.05,39.61,East,Ranchi
+ORD00284,2025-01-08,CUST0055,Smartphone,Electronics,4,1933.01,0.0,605.82,South,Chennai
+ORD00115,2025-01-08,CUST0185,Laptop,Electronics,1,538.17,0.1,58.55,South,Hyderabad
+ORD00654,2025-01-08,CUST0088,Webcam,Accessories,5,456.34,0.0,98.55,North,Ghaziabad
+ORD00772,2025-01-08,CUST0045,Printer,Electronics,5,901.11,0.0,225.5,North,Lucknow
+ORD00672,2025-01-08,CUST0237,Headphones,Accessories,2,140.8,0.0,52.6,East,Ranchi
+ORD00935,2025-01-09,CUST0179,Webcam,Accessories,1,78.8,0.0,26.94,East,Patna
+ORD00197,2025-01-09,CUST0092,Laptop,Electronics,1,508.24,0.2,66.93,East,Ranchi
+ORD00838,2025-01-09,CUST0123,Webcam,Accessories,4,313.93,0.0,111.06,North,Lucknow
+ORD00294,2025-01-09,CUST0136,Pen Set,Stationery,1,8.05,0.0,2.4,East,Ranchi
+ORD00488,2025-01-10,CUST0027,Notebook,Stationery,3,39.46,0.0,9.11,East,Ranchi
+ORD00702,2025-01-10,CUST0054,Webcam,Accessories,5,352.12,0.2,30.36,North,Jaipur
+ORD00983,2025-01-10,CUST0071,Monitor,Electronics,1,191.35,0.2,34.45,East,Kolkata
+ORD00405,2025-01-11,CUST0135,Keyboard,Accessories,1,50.12,0.0,13.02,South,Kochi
+ORD00417,2025-01-11,CUST0082,Bookshelf,Furniture,4,551.12,0.0,205.75,South,Chennai
+ORD00808,2025-01-11,CUST0075,Keyboard,Accessories,4,205.66,0.05,39.5,East,Bhubaneswar
+ORD00211,2025-01-14,CUST0189,Desk,Furniture,3,550.51,0.2,-8.32,West,Surat
+ORD00189,2025-01-14,CUST0107,Pen Set,Stationery,1,8.51,0.0,1.73,South,Kochi
+ORD00142,2025-01-14,CUST0034,Keyboard,Accessories,5,276.85,0.05,89.76,South,Chennai
+ORD00119,2025-01-15,CUST0012,Smartphone,Electronics,1,377.98,0.1,92.44,East,Kolkata
+ORD00190,2025-01-15,CUST0082,Laptop,Electronics,2,1285.72,0.1,292.88,East,Patna
+ORD00699,2025-01-15,CUST0214,Laptop,Electronics,3,1833.76,0.1,319.48,North,Jaipur
+ORD00400,2025-01-16,CUST0230,Pen Set,Stationery,3,21.73,0.0,5.67,West,Surat
+ORD00638,2025-01-18,CUST0073,Webcam,Accessories,4,334.14,0.1,103.94,West,Ahmedabad
+ORD00428,2025-01-18,CUST0129,Desk,Furniture,4,835.2,0.05,131.38,East,Bhubaneswar
+ORD00614,2025-01-18,CUST0051,Headphones,Accessories,2,142.32,0.1,30.27,North,Delhi
+ORD00700,2025-01-19,CUST0166,Tablet,Electronics,3,669.19,0.2,71.18,South,Hyderabad
+ORD00253,2025-01-20,CUST0234,Printer,Electronics,5,956.68,0.0,225.18,North,Delhi
+ORD00564,2025-01-20,CUST0186,Pen Set,Stationery,1,7.18,0.05,2.38,East,Kolkata
+ORD00461,2025-01-20,CUST0137,Backpack,Bags,4,255.78,0.1,57.79,East,Ranchi
+ORD00706,2025-01-20,CUST0200,Notebook,Stationery,5,53.3,0.05,14.32,West,Pune
+ORD00738,2025-01-20,CUST0146,Notebook,Stationery,4,41.42,0.15,10.88,South,Hyderabad
+ORD00766,2025-01-21,CUST0248,Mouse,Accessories,4,117.37,0.05,36.41,West,Mumbai
+ORD00475,2025-01-21,CUST0219,Monitor,Electronics,3,540.55,0.1,70.49,East,Patna
+ORD00175,2025-01-21,CUST0064,Laptop,Electronics,3,1430.31,0.2,90.78,East,Kolkata
+ORD00283,2025-01-21,CUST0224,Mouse,Accessories,1,27.8,0.05,6.12,North,Ghaziabad
+ORD00043,2025-01-22,CUST0079,Pen Set,Stationery,3,20.61,0.15,3.49,South,Bengaluru
+ORD00627,2025-01-23,CUST0214,Keyboard,Accessories,3,151.68,0.0,37.65,West,Surat
+ORD00540,2025-01-24,CUST0011,Monitor,Electronics,5,1021.61,0.05,157.46,North,Ghaziabad
+ORD00300,2025-01-24,CUST0237,Desk,Furniture,2,413.76,0.2,43.91,North,Ghaziabad
+ORD00476,2025-01-24,CUST0003,Keyboard,Accessories,4,162.48,0.2,1.98,West,Ahmedabad
+ORD00492,2025-01-24,CUST0230,Laptop,Electronics,3,1664.79,0.15,175.45,West,Ahmedabad
+ORD00949,2025-01-24,CUST0198,Monitor,Electronics,4,918.54,0.05,167.29,North,Ghaziabad
+ORD00013,2025-01-25,CUST0221,Pen Set,Stationery,2,16.03,0.0,5.8,East,Patna
+ORD00351,2025-01-25,CUST0012,Keyboard,Accessories,5,261.77,0.1,29.42,West,Pune
+ORD00202,2025-01-25,CUST0222,Desk,Furniture,1,180.14,0.2,24.46,East,Patna
+ORD00467,2025-01-25,CUST0170,Webcam,Accessories,3,222.09,0.15,29.06,North,Lucknow
+ORD00965,2025-01-25,CUST0194,Headphones,Accessories,3,219.18,0.05,59.78,North,Delhi
+ORD00677,2025-01-26,CUST0049,Desk,Furniture,5,1083.48,0.1,185.24,East,Kolkata
+ORD00616,2025-01-27,CUST0222,Printer,Electronics,3,527.21,0.1,140.74,North,Delhi
+ORD00743,2025-01-27,CUST0169,Laptop,Electronics,1,517.21,0.2,94.51,West,Ahmedabad
+ORD00783,2025-01-28,CUST0166,Bookshelf,Furniture,4,484.61,0.0,94.72,South,Kochi
+ORD00643,2025-01-29,CUST0236,Pen Set,Stationery,1,6.79,0.2,0.88,North,Jaipur
+ORD00402,2025-01-29,CUST0196,Tablet,Electronics,2,535.58,0.05,96.82,North,Ghaziabad
+ORD00821,2025-01-29,CUST0233,Printer,Electronics,2,329.53,0.1,58.21,North,Lucknow
+ORD00298,2025-01-29,CUST0164,Keyboard,Accessories,1,48.3,0.1,9.09,North,Delhi
+ORD00276,2025-01-29,CUST0036,Printer,Electronics,1,168.91,0.1,32.29,North,Ghaziabad
+ORD00450,2025-01-30,CUST0207,Notebook,Stationery,3,33.48,0.0,7.6,West,Ahmedabad
+ORD00755,2025-01-30,CUST0241,Mouse,Accessories,3,81.61,0.0,20.9,South,Hyderabad
+ORD00172,2025-01-30,CUST0095,Keyboard,Accessories,5,264.57,0.0,76.62,North,Jaipur
+ORD00758,2025-02-01,CUST0098,Office Chair,Furniture,3,478.32,0.05,158.7,West,Surat
+ORD00243,2025-02-01,CUST0181,Tablet,Electronics,4,1004.35,0.15,54.23,East,Bhubaneswar
+ORD00145,2025-02-01,CUST0123,Desk,Furniture,5,1130.43,0.05,163.25,South,Bengaluru
+ORD00958,2025-02-01,CUST0101,Smartphone,Electronics,3,1332.11,0.1,365.79,North,Jaipur
+ORD00773,2025-02-02,CUST0210,Printer,Electronics,1,174.8,0.1,21.93,North,Jaipur
+ORD00990,2025-02-03,CUST0124,Bookshelf,Furniture,3,375.83,0.0,101.24,East,Kolkata
+ORD00805,2025-02-03,CUST0049,Webcam,Accessories,5,427.97,0.05,63.49,West,Surat
+ORD00414,2025-02-04,CUST0090,Printer,Electronics,4,724.31,0.0,239.09,North,Jaipur
+ORD00269,2025-02-05,CUST0240,Laptop,Electronics,1,607.1,0.15,30.77,East,Patna
+ORD00318,2025-02-05,CUST0210,Bookshelf,Furniture,2,247.93,0.1,31.33,North,Lucknow
+ORD00358,2025-02-05,CUST0136,Mouse,Accessories,4,123.4,0.0,30.18,West,Pune
+ORD00023,2025-02-06,CUST0132,Laptop,Electronics,2,1405.41,0.0,292.43,North,Delhi
+ORD00163,2025-02-06,CUST0102,Tablet,Electronics,5,1269.34,0.15,102.68,East,Bhubaneswar
+ORD00757,2025-02-08,CUST0164,Pen Set,Stationery,2,14.58,0.05,3.04,South,Bengaluru
+ORD00534,2025-02-08,CUST0229,Keyboard,Accessories,3,142.2,0.2,29.28,South,Chennai
+ORD00508,2025-02-08,CUST0048,Monitor,Electronics,2,413.72,0.05,58.05,West,Pune
+ORD00418,2025-02-08,CUST0141,Keyboard,Accessories,3,177.8,0.0,61.84,North,Delhi
+ORD00042,2025-02-08,CUST0242,Keyboard,Accessories,5,216.82,0.2,48.26,South,Kochi
+ORD00027,2025-02-08,CUST0114,Monitor,Electronics,2,370.93,0.1,77.26,South,Kochi
+ORD00542,2025-02-09,CUST0133,Desk,Furniture,4,927.99,0.05,146.87,South,Kochi
+ORD00928,2025-02-09,CUST0235,Tablet,Electronics,5,1208.46,0.1,363.15,West,Pune
+ORD00063,2025-02-09,CUST0183,Keyboard,Accessories,5,253.77,0.1,63.46,South,Hyderabad
+ORD00632,2025-02-09,CUST0242,Webcam,Accessories,5,444.92,0.0,94.82,North,Jaipur
+ORD00724,2025-02-09,CUST0190,Bookshelf,Furniture,5,492.56,0.2,29.23,East,Patna
+ORD00806,2025-02-09,CUST0028,Pen Set,Stationery,1,7.77,0.1,1.92,East,Kolkata
+ORD00670,2025-02-10,CUST0177,Bookshelf,Furniture,5,615.02,0.0,230.5,West,Pune
+ORD00594,2025-02-10,CUST0042,Pen Set,Stationery,5,33.35,0.15,1.9,West,Surat
+ORD00630,2025-02-10,CUST0120,Backpack,Bags,2,103.82,0.2,0.26,North,Delhi
+ORD00146,2025-02-11,CUST0083,Notebook,Stationery,1,11.26,0.1,2.39,East,Ranchi
+ORD00099,2025-02-11,CUST0154,Smartphone,Electronics,4,1710.16,0.05,416.27,East,Patna
+ORD00533,2025-02-11,CUST0216,Office Chair,Furniture,4,564.12,0.15,66.96,West,Ahmedabad
+ORD00423,2025-02-11,CUST0122,Backpack,Bags,1,61.19,0.0,15.44,East,Bhubaneswar
+ORD00882,2025-02-12,CUST0081,Bookshelf,Furniture,1,103.71,0.2,22.82,West,Pune
+ORD00353,2025-02-12,CUST0096,Webcam,Accessories,2,148.36,0.05,40.27,South,Hyderabad
+ORD00306,2025-02-12,CUST0069,Tablet,Electronics,5,1409.28,0.05,277.96,East,Kolkata
+ORD00767,2025-02-13,CUST0227,Headphones,Accessories,4,307.84,0.0,94.86,South,Hyderabad
+ORD00653,2025-02-13,CUST0029,Office Chair,Furniture,2,280.73,0.2,9.98,North,Ghaziabad
+ORD00325,2025-02-13,CUST0030,Tablet,Electronics,4,1074.18,0.0,210.42,West,Mumbai
+ORD00945,2025-02-14,CUST0171,Printer,Electronics,2,304.09,0.15,32.87,West,Surat
+ORD00519,2025-02-14,CUST0019,Webcam,Accessories,2,168.61,0.0,52.88,East,Kolkata
+ORD00460,2025-02-15,CUST0034,Laptop,Electronics,2,1319.83,0.0,459.71,East,Patna
+ORD00778,2025-02-15,CUST0181,Headphones,Accessories,4,270.38,0.0,93.04,South,Bengaluru
+ORD00898,2025-02-15,CUST0250,Notebook,Stationery,1,10.5,0.15,1.29,South,Bengaluru
+ORD00921,2025-02-15,CUST0006,Smartphone,Electronics,2,983.71,0.0,203.53,East,Patna
+ORD00796,2025-02-16,CUST0005,Webcam,Accessories,2,154.9,0.05,32.68,East,Bhubaneswar
+ORD00424,2025-02-16,CUST0165,Notebook,Stationery,4,43.11,0.1,7.08,North,Jaipur
+ORD00102,2025-02-16,CUST0121,Office Chair,Furniture,5,831.84,0.1,167.9,West,Pune
+ORD00914,2025-02-17,CUST0053,Office Chair,Furniture,1,154.57,0.2,30.0,East,Ranchi
+ORD00819,2025-02-17,CUST0084,Smartphone,Electronics,4,1634.31,0.15,270.73,West,Mumbai
+ORD00834,2025-02-18,CUST0154,Keyboard,Accessories,5,289.65,0.0,99.45,West,Mumbai
+ORD00299,2025-02-18,CUST0230,Laptop,Electronics,4,2407.82,0.1,571.85,South,Bengaluru
+ORD00916,2025-02-18,CUST0228,Monitor,Electronics,4,835.32,0.0,234.2,North,Ghaziabad
+ORD00843,2025-02-19,CUST0201,Laptop,Electronics,3,1780.84,0.0,438.95,East,Kolkata
+ORD00135,2025-02-19,CUST0061,Headphones,Accessories,1,72.07,0.0,20.29,North,Ghaziabad
+ORD00528,2025-02-20,CUST0051,Printer,Electronics,5,910.22,0.0,333.62,North,Lucknow
+ORD00138,2025-02-20,CUST0176,Webcam,Accessories,4,333.57,0.1,40.36,West,Pune
+ORD00408,2025-02-21,CUST0087,Desk,Furniture,3,626.91,0.2,79.05,West,Mumbai
+ORD00036,2025-02-21,CUST0019,Office Chair,Furniture,1,165.93,0.1,30.87,West,Mumbai
+ORD00991,2025-02-21,CUST0064,Laptop,Electronics,1,624.18,0.05,139.79,East,Bhubaneswar
+ORD00007,2025-02-21,CUST0098,Monitor,Electronics,2,458.56,0.05,76.71,North,Delhi
+ORD00357,2025-02-22,CUST0081,Tablet,Electronics,2,462.6,0.1,61.06,East,Kolkata
+ORD00853,2025-02-22,CUST0190,Office Chair,Furniture,2,317.56,0.1,57.12,North,Delhi
+ORD00852,2025-02-23,CUST0102,Smartphone,Electronics,2,989.77,0.0,278.79,East,Patna
+ORD00917,2025-02-24,CUST0215,Mouse,Accessories,1,26.32,0.1,2.76,North,Jaipur
+ORD00721,2025-02-24,CUST0084,Bookshelf,Furniture,5,637.74,0.0,151.24,West,Pune
+ORD00620,2025-02-24,CUST0033,Bookshelf,Furniture,3,290.4,0.2,26.4,North,Delhi
+ORD00016,2025-02-24,CUST0223,Tablet,Electronics,3,751.41,0.15,113.56,East,Kolkata
+ORD00558,2025-02-24,CUST0040,Smartphone,Electronics,2,763.82,0.2,93.79,North,Lucknow
+ORD00026,2025-02-25,CUST0064,Headphones,Accessories,1,73.54,0.0,22.96,East,Kolkata
+ORD00144,2025-02-25,CUST0116,Headphones,Accessories,4,285.01,0.1,56.16,North,Delhi
+ORD00786,2025-02-26,CUST0084,Office Chair,Furniture,2,298.19,0.2,42.82,West,Surat
+ORD00407,2025-02-26,CUST0217,Bookshelf,Furniture,1,132.25,0.0,25.99,West,Mumbai
+ORD00841,2025-02-27,CUST0020,Keyboard,Accessories,2,108.35,0.0,24.64,South,Chennai
+ORD00274,2025-02-27,CUST0009,Notebook,Stationery,4,42.45,0.05,13.06,South,Chennai
+ORD00148,2025-02-28,CUST0219,Headphones,Accessories,5,314.3,0.15,26.39,West,Surat
+ORD00948,2025-02-28,CUST0159,Printer,Electronics,5,1008.29,0.0,315.04,South,Chennai
+ORD00527,2025-02-28,CUST0047,Pen Set,Stationery,2,16.37,0.0,5.39,South,Chennai
+ORD00331,2025-02-28,CUST0068,Keyboard,Accessories,5,267.62,0.0,91.15,North,Delhi
+ORD00470,2025-02-28,CUST0201,Backpack,Bags,1,57.67,0.15,14.01,South,Kochi
+ORD00501,2025-03-01,CUST0195,Printer,Electronics,5,838.88,0.15,163.36,South,Chennai
+ORD00937,2025-03-01,CUST0043,Bookshelf,Furniture,3,326.3,0.1,70.92,South,Bengaluru
+ORD00909,2025-03-01,CUST0081,Office Chair,Furniture,3,434.63,0.2,82.39,South,Bengaluru
+ORD00770,2025-03-02,CUST0055,Laptop,Electronics,1,653.04,0.05,220.96,North,Jaipur
+ORD00372,2025-03-02,CUST0198,Desk,Furniture,3,755.97,0.0,155.21,West,Pune
+ORD00561,2025-03-02,CUST0192,Keyboard,Accessories,4,163.26,0.2,1.48,West,Ahmedabad
+ORD00493,2025-03-03,CUST0239,Tablet,Electronics,4,1064.96,0.0,362.95,East,Bhubaneswar
+ORD00831,2025-03-03,CUST0096,Mouse,Accessories,3,74.68,0.2,-1.38,East,Ranchi
+ORD00388,2025-03-03,CUST0138,Bookshelf,Furniture,1,128.69,0.0,40.82,North,Ghaziabad
+ORD00227,2025-03-04,CUST0069,Headphones,Accessories,5,293.64,0.15,62.75,South,Hyderabad
+ORD00953,2025-03-04,CUST0218,Office Chair,Furniture,2,280.15,0.2,5.66,East,Kolkata
+ORD00804,2025-03-04,CUST0121,Laptop,Electronics,3,1750.17,0.1,339.66,North,Jaipur
+ORD00692,2025-03-04,CUST0178,Mouse,Accessories,4,93.12,0.15,14.88,East,Kolkata
+ORD00219,2025-03-05,CUST0133,Mouse,Accessories,2,54.03,0.1,6.38,South,Chennai
+ORD00466,2025-03-05,CUST0094,Monitor,Electronics,2,318.34,0.2,31.46,South,Chennai
+ORD00734,2025-03-06,CUST0035,Desk,Furniture,4,919.39,0.0,188.89,East,Patna
+ORD00143,2025-03-06,CUST0190,Laptop,Electronics,5,2788.49,0.05,812.85,West,Pune
+ORD00730,2025-03-07,CUST0219,Pen Set,Stationery,5,40.89,0.0,11.36,West,Mumbai
+ORD00272,2025-03-07,CUST0187,Desk,Furniture,1,263.66,0.0,79.47,South,Hyderabad
+ORD00580,2025-03-07,CUST0014,Keyboard,Accessories,5,255.91,0.05,48.48,East,Bhubaneswar
+ORD00394,2025-03-07,CUST0024,Backpack,Bags,1,61.07,0.0,15.32,West,Mumbai
+ORD00041,2025-03-08,CUST0164,Pen Set,Stationery,4,27.63,0.05,7.66,North,Delhi
+ORD00969,2025-03-08,CUST0122,Smartphone,Electronics,4,1653.21,0.0,487.73,South,Kochi
+ORD00481,2025-03-08,CUST0124,Office Chair,Furniture,3,415.75,0.15,45.54,South,Kochi
+ORD00346,2025-03-09,CUST0064,Smartphone,Electronics,1,458.88,0.05,147.14,South,Kochi
+ORD00551,2025-03-09,CUST0028,Printer,Electronics,5,737.87,0.15,134.0,West,Surat
+ORD00479,2025-03-09,CUST0179,Notebook,Stationery,4,41.37,0.2,7.59,East,Ranchi
+ORD00262,2025-03-10,CUST0123,Desk,Furniture,3,699.68,0.05,210.77,West,Mumbai
+ORD00547,2025-03-10,CUST0162,Notebook,Stationery,2,22.21,0.0,5.81,East,Kolkata
+ORD00857,2025-03-10,CUST0008,Office Chair,Furniture,3,485.74,0.1,83.3,North,Delhi
+ORD00604,2025-03-11,CUST0089,Headphones,Accessories,3,202.5,0.0,43.92,West,Pune
+ORD00110,2025-03-11,CUST0222,Monitor,Electronics,4,954.25,0.0,265.62,East,Bhubaneswar
+ORD00735,2025-03-11,CUST0022,Laptop,Electronics,2,1120.06,0.2,67.79,North,Delhi
+ORD00387,2025-03-11,CUST0200,Notebook,Stationery,4,43.17,0.05,6.42,West,Ahmedabad
+ORD00398,2025-03-12,CUST0108,Keyboard,Accessories,5,225.77,0.1,56.2,East,Ranchi
+ORD00666,2025-03-12,CUST0080,Office Chair,Furniture,2,308.53,0.15,25.4,South,Chennai
+ORD00733,2025-03-13,CUST0049,Headphones,Accessories,4,240.27,0.15,55.21,East,Ranchi
+ORD00771,2025-03-14,CUST0126,Bookshelf,Furniture,5,705.23,0.0,262.79,East,Bhubaneswar
+ORD00301,2025-03-15,CUST0193,Smartphone,Electronics,2,772.18,0.05,234.56,West,Mumbai
+ORD00975,2025-03-15,CUST0037,Smartphone,Electronics,3,1229.66,0.05,419.9,West,Ahmedabad
+ORD00235,2025-03-15,CUST0051,Tablet,Electronics,3,807.23,0.05,218.27,North,Lucknow
+ORD00563,2025-03-16,CUST0121,Webcam,Accessories,4,245.09,0.2,49.57,North,Ghaziabad
+ORD00311,2025-03-16,CUST0017,Monitor,Electronics,2,419.66,0.0,136.94,South,Kochi
+ORD00612,2025-03-16,CUST0015,Keyboard,Accessories,4,186.26,0.2,26.53,East,Patna
+ORD00586,2025-03-16,CUST0205,Monitor,Electronics,2,368.93,0.15,66.76,North,Jaipur
+ORD00538,2025-03-16,CUST0189,Tablet,Electronics,2,567.43,0.0,151.41,South,Kochi
+ORD00856,2025-03-17,CUST0197,Headphones,Accessories,5,370.41,0.1,73.14,West,Surat
+ORD00168,2025-03-17,CUST0061,Desk,Furniture,3,715.11,0.05,125.12,North,Ghaziabad
+ORD00911,2025-03-19,CUST0143,Notebook,Stationery,4,46.23,0.0,8.37,West,Ahmedabad
+ORD00064,2025-03-19,CUST0060,Keyboard,Accessories,3,169.07,0.05,55.86,South,Hyderabad
+ORD00359,2025-03-19,CUST0236,Backpack,Bags,4,257.99,0.05,55.51,North,Ghaziabad
+ORD00114,2025-03-19,CUST0127,Mouse,Accessories,4,101.61,0.2,6.3,East,Ranchi
+ORD00877,2025-03-19,CUST0192,Pen Set,Stationery,5,38.91,0.0,13.63,East,Kolkata
+ORD00626,2025-03-20,CUST0157,Mouse,Accessories,2,52.87,0.15,4.78,North,Lucknow
+ORD00813,2025-03-20,CUST0042,Desk,Furniture,2,398.81,0.2,23.29,West,Pune
+ORD00073,2025-03-20,CUST0062,Printer,Electronics,1,178.58,0.0,67.14,North,Delhi
+ORD00510,2025-03-20,CUST0238,Notebook,Stationery,3,33.76,0.1,9.34,West,Mumbai
+ORD00319,2025-03-20,CUST0184,Notebook,Stationery,2,18.44,0.2,2.98,East,Ranchi
+ORD00707,2025-03-20,CUST0049,Monitor,Electronics,5,1165.79,0.0,232.01,North,Lucknow
+ORD00150,2025-03-20,CUST0176,Webcam,Accessories,4,333.67,0.05,89.62,North,Jaipur
+ORD00039,2025-03-21,CUST0070,Pen Set,Stationery,3,25.87,0.0,5.99,North,Ghaziabad
+ORD00158,2025-03-21,CUST0041,Tablet,Electronics,3,727.74,0.15,45.66,West,Ahmedabad
+ORD00389,2025-03-22,CUST0207,Mouse,Accessories,3,77.19,0.1,21.96,South,Kochi
+ORD00661,2025-03-22,CUST0005,Pen Set,Stationery,2,13.07,0.15,2.03,North,Delhi
+ORD00094,2025-03-22,CUST0062,Backpack,Bags,2,97.99,0.2,5.87,North,Delhi
+ORD00635,2025-03-22,CUST0137,Headphones,Accessories,2,124.99,0.15,23.9,North,Ghaziabad
+ORD00567,2025-03-22,CUST0023,Webcam,Accessories,1,76.54,0.05,26.58,South,Chennai
+ORD00107,2025-03-23,CUST0080,Pen Set,Stationery,1,6.54,0.2,1.08,East,Kolkata
+ORD00328,2025-03-23,CUST0085,Laptop,Electronics,2,986.73,0.2,178.98,West,Mumbai
+ORD00208,2025-03-23,CUST0244,Keyboard,Accessories,4,209.55,0.05,39.71,North,Delhi
+ORD00690,2025-03-24,CUST0173,Backpack,Bags,1,59.92,0.0,10.86,West,Ahmedabad
+ORD00546,2025-03-24,CUST0166,Bookshelf,Furniture,4,414.24,0.2,71.39,West,Mumbai
+ORD00503,2025-03-24,CUST0074,Smartphone,Electronics,2,930.65,0.0,316.44,North,Lucknow
+ORD00812,2025-03-24,CUST0183,Notebook,Stationery,3,33.9,0.05,10.59,North,Ghaziabad
+ORD00509,2025-03-24,CUST0150,Tablet,Electronics,1,240.87,0.1,60.8,North,Lucknow
+ORD00815,2025-03-25,CUST0137,Desk,Furniture,3,701.7,0.0,190.88,North,Jaipur
+ORD00265,2025-03-26,CUST0084,Pen Set,Stationery,5,31.97,0.15,4.61,North,Delhi
+ORD00485,2025-03-26,CUST0020,Backpack,Bags,2,118.21,0.15,8.29,North,Delhi
+ORD00338,2025-03-27,CUST0022,Printer,Electronics,4,712.75,0.1,151.45,East,Ranchi
+ORD00550,2025-03-27,CUST0186,Monitor,Electronics,5,1127.11,0.0,313.16,East,Bhubaneswar
+ORD00415,2025-03-27,CUST0227,Keyboard,Accessories,1,48.89,0.1,10.65,North,Delhi
+ORD00597,2025-03-27,CUST0102,Laptop,Electronics,3,1622.62,0.2,332.61,South,Chennai
+ORD00374,2025-03-27,CUST0095,Smartphone,Electronics,5,1947.45,0.05,324.15,East,Ranchi
+ORD00167,2025-03-28,CUST0020,Desk,Furniture,3,557.51,0.2,79.02,North,Lucknow
+ORD00290,2025-03-28,CUST0188,Desk,Furniture,4,789.76,0.2,80.83,West,Ahmedabad
+ORD00339,2025-03-28,CUST0200,Backpack,Bags,3,186.22,0.0,50.74,North,Ghaziabad
+ORD00776,2025-03-28,CUST0179,Laptop,Electronics,1,620.61,0.0,141.81,South,Hyderabad
+ORD00056,2025-03-28,CUST0169,Printer,Electronics,4,708.03,0.1,139.85,West,Surat
+ORD00933,2025-03-29,CUST0168,Notebook,Stationery,5,54.07,0.0,19.28,North,Lucknow
+ORD00720,2025-03-29,CUST0073,Office Chair,Furniture,4,698.61,0.0,201.03,North,Delhi
+ORD00846,2025-03-29,CUST0231,Smartphone,Electronics,5,2347.12,0.0,439.26,North,Delhi
+ORD00165,2025-03-29,CUST0206,Backpack,Bags,3,191.3,0.0,35.73,East,Ranchi
+ORD00600,2025-03-29,CUST0008,Monitor,Electronics,4,651.4,0.2,60.79,South,Hyderabad
+ORD00213,2025-03-30,CUST0231,Backpack,Bags,2,120.53,0.0,44.02,West,Surat
+ORD00199,2025-03-31,CUST0213,Bookshelf,Furniture,1,124.64,0.05,21.95,West,Pune
+ORD00054,2025-03-31,CUST0158,Desk,Furniture,4,835.64,0.2,46.52,South,Chennai
+ORD00826,2025-03-31,CUST0143,Pen Set,Stationery,1,7.4,0.1,1.85,East,Kolkata
+ORD00406,2025-04-01,CUST0236,Office Chair,Furniture,5,955.16,0.0,297.86,North,Jaipur
+ORD00496,2025-04-01,CUST0178,Desk,Furniture,5,1171.66,0.1,161.14,North,Lucknow
+ORD00295,2025-04-02,CUST0028,Webcam,Accessories,1,76.78,0.15,8.6,West,Ahmedabad
+ORD00829,2025-04-02,CUST0126,Keyboard,Accessories,1,45.46,0.2,6.96,West,Surat
+ORD00376,2025-04-02,CUST0239,Laptop,Electronics,1,569.09,0.1,60.68,North,Ghaziabad
+ORD00317,2025-04-03,CUST0175,Bookshelf,Furniture,1,103.87,0.15,3.74,East,Patna
+ORD00746,2025-04-03,CUST0205,Tablet,Electronics,2,562.06,0.05,167.29,East,Patna
+ORD00753,2025-04-03,CUST0081,Headphones,Accessories,5,376.5,0.0,92.04,East,Bhubaneswar
+ORD00155,2025-04-03,CUST0070,Monitor,Electronics,5,937.99,0.2,148.34,East,Kolkata
+ORD00608,2025-04-04,CUST0035,Bookshelf,Furniture,5,606.74,0.05,101.74,West,Ahmedabad
+ORD00986,2025-04-04,CUST0066,Headphones,Accessories,1,75.63,0.0,24.43,West,Mumbai
+ORD00930,2025-04-04,CUST0216,Keyboard,Accessories,1,45.42,0.2,8.18,North,Delhi
+ORD00576,2025-04-04,CUST0243,Desk,Furniture,3,645.5,0.05,146.26,South,Kochi
+ORD00671,2025-04-05,CUST0219,Bookshelf,Furniture,5,549.05,0.15,64.65,East,Bhubaneswar
+ORD00669,2025-04-05,CUST0007,Headphones,Accessories,3,237.56,0.0,85.2,West,Surat
+ORD00814,2025-04-05,CUST0053,Monitor,Electronics,3,519.09,0.15,108.65,North,Delhi
+ORD00596,2025-04-05,CUST0219,Keyboard,Accessories,5,255.51,0.15,44.25,East,Patna
+ORD00609,2025-04-07,CUST0083,Keyboard,Accessories,5,236.22,0.1,40.8,North,Lucknow
+ORD00851,2025-04-07,CUST0220,Keyboard,Accessories,5,237.13,0.1,28.7,East,Bhubaneswar
+ORD00420,2025-04-08,CUST0105,Printer,Electronics,2,349.7,0.0,118.51,South,Kochi
+ORD00086,2025-04-09,CUST0081,Desk,Furniture,4,876.73,0.05,262.0,West,Ahmedabad
+ORD00782,2025-04-10,CUST0029,Backpack,Bags,4,214.63,0.2,33.46,West,Pune
+ORD00649,2025-04-11,CUST0144,Bookshelf,Furniture,5,648.42,0.0,161.81,South,Kochi
+ORD00057,2025-04-12,CUST0038,Smartphone,Electronics,1,465.55,0.0,155.99,West,Ahmedabad
+ORD00215,2025-04-13,CUST0203,Pen Set,Stationery,2,15.23,0.05,4.9,West,Pune
+ORD00759,2025-04-13,CUST0157,Headphones,Accessories,3,199.98,0.05,66.54,West,Mumbai
+ORD00774,2025-04-14,CUST0110,Notebook,Stationery,4,43.24,0.15,9.46,North,Delhi
+ORD00471,2025-04-14,CUST0092,Smartphone,Electronics,5,2375.08,0.0,507.55,East,Bhubaneswar
+ORD00871,2025-04-14,CUST0128,Mouse,Accessories,2,48.96,0.15,2.08,East,Patna
+ORD00287,2025-04-15,CUST0095,Desk,Furniture,1,190.83,0.2,2.88,East,Ranchi
+ORD00161,2025-04-15,CUST0078,Desk,Furniture,2,473.86,0.1,141.66,West,Mumbai
+ORD00577,2025-04-16,CUST0059,Webcam,Accessories,2,178.0,0.0,36.57,South,Kochi
+ORD00688,2025-04-17,CUST0013,Backpack,Bags,5,316.15,0.05,72.71,North,Ghaziabad
+ORD00429,2025-04-19,CUST0207,Backpack,Bags,4,283.35,0.0,98.2,South,Bengaluru
+ORD00526,2025-04-19,CUST0106,Headphones,Accessories,2,125.79,0.2,5.47,North,Jaipur
+ORD00153,2025-04-19,CUST0040,Pen Set,Stationery,5,36.87,0.05,8.32,North,Jaipur
+ORD00396,2025-04-20,CUST0233,Webcam,Accessories,1,79.3,0.1,21.62,East,Ranchi
+ORD00330,2025-04-20,CUST0053,Headphones,Accessories,4,251.41,0.15,67.77,North,Ghaziabad
+ORD00775,2025-04-20,CUST0196,Mouse,Accessories,1,24.36,0.2,4.64,East,Patna
+ORD00365,2025-04-21,CUST0011,Desk,Furniture,1,244.19,0.0,92.12,South,Kochi
+ORD00641,2025-04-22,CUST0188,Pen Set,Stationery,3,20.94,0.05,5.51,South,Chennai
+ORD00412,2025-04-24,CUST0164,Notebook,Stationery,5,61.8,0.05,8.88,North,Ghaziabad
+ORD00531,2025-04-24,CUST0183,Tablet,Electronics,4,1009.08,0.0,333.77,West,Ahmedabad
+ORD00084,2025-04-24,CUST0104,Bookshelf,Furniture,4,495.42,0.1,143.89,South,Kochi
+ORD00378,2025-04-25,CUST0206,Notebook,Stationery,1,10.55,0.15,2.72,North,Jaipur
+ORD00490,2025-04-25,CUST0217,Backpack,Bags,4,240.25,0.05,80.71,West,Pune
+ORD00486,2025-04-25,CUST0141,Bookshelf,Furniture,2,270.23,0.05,91.01,East,Patna
+ORD00181,2025-04-26,CUST0036,Mouse,Accessories,2,62.1,0.05,15.21,West,Pune
+ORD00355,2025-04-26,CUST0133,Printer,Electronics,1,189.12,0.0,66.85,North,Delhi
+ORD00644,2025-04-27,CUST0192,Bookshelf,Furniture,4,508.27,0.1,144.51,West,Ahmedabad
+ORD00047,2025-04-27,CUST0058,Laptop,Electronics,2,1134.82,0.1,146.13,East,Bhubaneswar
+ORD00118,2025-04-27,CUST0192,Desk,Furniture,2,398.16,0.2,60.98,North,Delhi
+ORD00545,2025-04-28,CUST0107,Tablet,Electronics,3,745.03,0.15,180.85,South,Chennai
+ORD00791,2025-04-28,CUST0023,Pen Set,Stationery,5,40.62,0.0,10.94,West,Pune
+ORD00943,2025-04-29,CUST0130,Headphones,Accessories,3,168.92,0.2,23.49,North,Ghaziabad
+ORD00292,2025-04-29,CUST0018,Laptop,Electronics,1,638.61,0.0,135.06,North,Delhi
+ORD00354,2025-04-30,CUST0110,Printer,Electronics,4,584.35,0.2,29.3,South,Bengaluru
+ORD00250,2025-04-30,CUST0014,Smartphone,Electronics,1,389.17,0.2,65.6,South,Chennai
+ORD00401,2025-04-30,CUST0250,Bookshelf,Furniture,4,429.4,0.15,57.19,West,Mumbai
+ORD00879,2025-05-01,CUST0104,Notebook,Stationery,3,26.84,0.2,1.43,East,Patna
+ORD00966,2025-05-01,CUST0207,Printer,Electronics,3,507.45,0.15,83.2,North,Lucknow
+ORD00785,2025-05-01,CUST0185,Smartphone,Electronics,2,897.31,0.0,320.15,North,Ghaziabad
+ORD00028,2025-05-02,CUST0043,Bookshelf,Furniture,5,710.97,0.0,138.45,North,Delhi
+ORD00193,2025-05-03,CUST0108,Notebook,Stationery,1,10.8,0.05,3.47,South,Kochi
+ORD00938,2025-05-05,CUST0052,Pen Set,Stationery,4,26.03,0.1,5.5,South,Kochi
+ORD00076,2025-05-05,CUST0027,Pen Set,Stationery,2,16.29,0.0,3.48,East,Ranchi
+ORD00740,2025-05-06,CUST0121,Bookshelf,Furniture,5,653.04,0.0,168.48,West,Surat
+ORD00369,2025-05-06,CUST0023,Printer,Electronics,4,663.14,0.2,109.65,North,Jaipur
+ORD00397,2025-05-06,CUST0166,Tablet,Electronics,4,1015.76,0.0,260.2,West,Ahmedabad
+ORD00080,2025-05-06,CUST0213,Bookshelf,Furniture,4,423.69,0.2,61.19,East,Ranchi
+ORD00289,2025-05-06,CUST0128,Backpack,Bags,2,125.58,0.0,38.18,East,Patna
+ORD00676,2025-05-06,CUST0133,Printer,Electronics,4,728.73,0.1,219.84,North,Delhi
+ORD00381,2025-05-06,CUST0039,Office Chair,Furniture,2,311.07,0.2,10.85,West,Surat
+ORD00895,2025-05-08,CUST0133,Laptop,Electronics,3,1880.59,0.05,609.38,East,Bhubaneswar
+ORD00606,2025-05-08,CUST0042,Monitor,Electronics,2,426.27,0.1,91.21,North,Jaipur
+ORD00613,2025-05-09,CUST0210,Keyboard,Accessories,5,231.74,0.1,25.97,East,Kolkata
+ORD00312,2025-05-09,CUST0242,Tablet,Electronics,4,1060.64,0.05,351.25,East,Patna
+ORD00761,2025-05-09,CUST0199,Smartphone,Electronics,1,411.56,0.0,109.36,East,Patna
+ORD00929,2025-05-10,CUST0091,Laptop,Electronics,4,2581.62,0.0,609.1,North,Lucknow
+ORD00468,2025-05-10,CUST0122,Smartphone,Electronics,1,400.49,0.1,113.6,North,Delhi
+ORD00890,2025-05-11,CUST0078,Pen Set,Stationery,4,25.97,0.1,2.54,North,Ghaziabad
+ORD00192,2025-05-12,CUST0056,Notebook,Stationery,4,36.76,0.15,9.26,South,Kochi
+ORD00474,2025-05-12,CUST0165,Office Chair,Furniture,5,940.24,0.0,338.24,South,Bengaluru
+ORD00082,2025-05-13,CUST0088,Mouse,Accessories,3,89.78,0.0,27.75,North,Lucknow
+ORD00881,2025-05-13,CUST0203,Desk,Furniture,1,223.65,0.0,78.88,East,Ranchi
+ORD00520,2025-05-13,CUST0105,Laptop,Electronics,5,3298.73,0.0,1103.33,South,Hyderabad
+ORD00454,2025-05-13,CUST0186,Desk,Furniture,5,1150.51,0.0,328.87,West,Pune
+ORD00899,2025-05-14,CUST0039,Office Chair,Furniture,2,352.87,0.0,103.82,South,Hyderabad
+ORD00896,2025-05-14,CUST0045,Webcam,Accessories,3,228.51,0.1,33.76,South,Kochi
+ORD00286,2025-05-14,CUST0093,Monitor,Electronics,4,797.33,0.1,184.4,West,Ahmedabad
+ORD00070,2025-05-14,CUST0098,Backpack,Bags,4,279.08,0.0,95.91,North,Delhi
+ORD00947,2025-05-14,CUST0092,Office Chair,Furniture,2,278.28,0.15,74.11,West,Pune
+ORD00583,2025-05-15,CUST0061,Headphones,Accessories,3,205.09,0.15,46.46,North,Jaipur
+ORD00425,2025-05-15,CUST0113,Desk,Furniture,3,631.07,0.1,133.81,East,Bhubaneswar
+ORD00903,2025-05-15,CUST0061,Printer,Electronics,2,362.0,0.1,110.3,South,Kochi
+ORD00541,2025-05-15,CUST0149,Printer,Electronics,5,810.11,0.2,13.19,West,Mumbai
+ORD00910,2025-05-15,CUST0157,Laptop,Electronics,3,1516.5,0.2,178.15,South,Kochi
+ORD00539,2025-05-16,CUST0095,Webcam,Accessories,1,89.45,0.0,29.85,East,Patna
+ORD00223,2025-05-16,CUST0167,Notebook,Stationery,1,13.08,0.0,2.96,North,Delhi
+ORD00640,2025-05-16,CUST0094,Bookshelf,Furniture,1,128.97,0.0,44.98,West,Pune
+ORD00901,2025-05-17,CUST0074,Printer,Electronics,2,285.95,0.2,-3.29,East,Kolkata
+ORD00097,2025-05-17,CUST0212,Printer,Electronics,1,152.61,0.15,35.94,South,Kochi
+ORD00477,2025-05-18,CUST0225,Notebook,Stationery,3,36.9,0.05,5.4,South,Chennai
+ORD00610,2025-05-18,CUST0033,Laptop,Electronics,5,3045.86,0.0,1095.13,South,Bengaluru
+ORD00437,2025-05-18,CUST0187,Smartphone,Electronics,3,1067.71,0.2,19.8,South,Chennai
+ORD00779,2025-05-19,CUST0134,Printer,Electronics,4,562.63,0.2,106.47,West,Surat
+ORD00079,2025-05-19,CUST0158,Notebook,Stationery,4,50.24,0.0,9.39,East,Bhubaneswar
+ORD00009,2025-05-19,CUST0237,Printer,Electronics,5,721.21,0.2,78.92,North,Ghaziabad
+ORD00799,2025-05-19,CUST0179,Printer,Electronics,3,439.22,0.15,74.83,North,Lucknow
+ORD00249,2025-05-20,CUST0036,Keyboard,Accessories,2,89.22,0.15,12.34,East,Bhubaneswar
+ORD00188,2025-05-20,CUST0116,Notebook,Stationery,5,57.42,0.0,13.06,West,Mumbai
+ORD00601,2025-05-20,CUST0141,Laptop,Electronics,4,2562.29,0.1,489.35,West,Ahmedabad
+ORD00886,2025-05-21,CUST0113,Notebook,Stationery,4,44.59,0.0,15.39,East,Bhubaneswar
+ORD00446,2025-05-21,CUST0109,Laptop,Electronics,5,3218.87,0.05,637.43,South,Hyderabad
+ORD00569,2025-05-22,CUST0058,Pen Set,Stationery,5,32.97,0.15,1.45,North,Jaipur
+ORD00617,2025-05-22,CUST0150,Printer,Electronics,2,300.0,0.2,66.37,South,Bengaluru
+ORD00662,2025-05-22,CUST0208,Mouse,Accessories,3,98.93,0.0,18.23,West,Ahmedabad
+ORD00434,2025-05-22,CUST0104,Headphones,Accessories,4,260.56,0.15,68.21,West,Surat
+ORD00844,2025-05-23,CUST0243,Smartphone,Electronics,2,698.62,0.2,141.33,South,Chennai
+ORD00154,2025-05-23,CUST0147,Printer,Electronics,1,192.97,0.05,52.1,East,Bhubaneswar
+ORD00245,2025-05-23,CUST0143,Desk,Furniture,3,610.06,0.15,27.65,West,Ahmedabad
+ORD00048,2025-05-23,CUST0090,Laptop,Electronics,3,1987.49,0.05,285.82,South,Kochi
+ORD00980,2025-05-23,CUST0166,Monitor,Electronics,5,1200.78,0.0,242.55,East,Patna
+ORD00744,2025-05-23,CUST0065,Keyboard,Accessories,4,203.58,0.0,74.23,North,Jaipur
+ORD00544,2025-05-24,CUST0055,Office Chair,Furniture,4,681.12,0.0,188.73,North,Ghaziabad
+ORD00316,2025-05-24,CUST0210,Headphones,Accessories,4,269.38,0.15,52.23,West,Ahmedabad
+ORD00137,2025-05-24,CUST0009,Backpack,Bags,1,59.85,0.1,6.13,South,Kochi
+ORD00902,2025-05-25,CUST0187,Webcam,Accessories,2,163.9,0.1,29.13,East,Ranchi
+ORD00176,2025-05-25,CUST0100,Webcam,Accessories,5,369.18,0.15,68.28,East,Ranchi
+ORD00529,2025-05-26,CUST0159,Webcam,Accessories,3,263.74,0.0,87.85,East,Patna
+ORD00443,2025-05-26,CUST0008,Desk,Furniture,2,478.71,0.05,96.87,West,Ahmedabad
+ORD00954,2025-05-27,CUST0130,Monitor,Electronics,1,234.73,0.0,66.96,East,Ranchi
+ORD00126,2025-05-27,CUST0199,Keyboard,Accessories,5,219.86,0.2,-0.22,North,Delhi
+ORD00098,2025-05-28,CUST0113,Tablet,Electronics,2,542.11,0.05,94.24,North,Delhi
+ORD00106,2025-05-28,CUST0113,Bookshelf,Furniture,1,123.94,0.0,43.85,East,Ranchi
+ORD00811,2025-05-28,CUST0198,Keyboard,Accessories,2,98.79,0.05,26.58,South,Hyderabad
+ORD00536,2025-05-29,CUST0035,Desk,Furniture,3,612.14,0.1,85.41,East,Bhubaneswar
+ORD00742,2025-05-29,CUST0043,Office Chair,Furniture,4,747.01,0.05,133.96,East,Patna
+ORD00095,2025-05-30,CUST0009,Tablet,Electronics,1,249.51,0.1,44.7,North,Ghaziabad
+ORD00605,2025-05-30,CUST0153,Keyboard,Accessories,4,190.06,0.1,26.78,East,Kolkata
+ORD00952,2025-05-30,CUST0182,Desk,Furniture,1,259.73,0.0,90.54,North,Ghaziabad
+ORD00015,2025-05-31,CUST0112,Keyboard,Accessories,5,275.28,0.05,75.91,North,Delhi
+ORD00513,2025-05-31,CUST0056,Headphones,Accessories,2,154.9,0.0,48.61,North,Jaipur
+ORD00451,2025-06-01,CUST0067,Notebook,Stationery,2,17.38,0.2,1.75,East,Patna
+ORD00524,2025-06-02,CUST0174,Desk,Furniture,4,782.54,0.15,95.0,South,Chennai
+ORD00111,2025-06-02,CUST0215,Smartphone,Electronics,3,1094.07,0.15,295.38,West,Surat
+ORD00238,2025-06-03,CUST0122,Notebook,Stationery,5,51.33,0.15,5.33,West,Ahmedabad
+ORD00874,2025-06-03,CUST0111,Headphones,Accessories,1,63.88,0.2,6.31,South,Hyderabad
+ORD00927,2025-06-03,CUST0039,Printer,Electronics,4,626.43,0.1,83.31,North,Jaipur
+ORD00691,2025-06-03,CUST0083,Keyboard,Accessories,5,283.79,0.05,93.01,South,Kochi
+ORD00996,2025-06-03,CUST0023,Notebook,Stationery,1,12.57,0.0,3.36,South,Hyderabad
+ORD00134,2025-06-04,CUST0167,Desk,Furniture,1,204.44,0.2,-0.48,West,Pune
+ORD00827,2025-06-04,CUST0214,Office Chair,Furniture,2,310.36,0.1,62.72,South,Chennai
+ORD00224,2025-06-04,CUST0124,Monitor,Electronics,4,710.42,0.2,45.84,East,Kolkata
+ORD00964,2025-06-05,CUST0186,Printer,Electronics,1,164.49,0.15,35.17,South,Bengaluru
+ORD00171,2025-06-05,CUST0204,Printer,Electronics,2,312.47,0.1,66.51,West,Ahmedabad
+ORD00463,2025-06-06,CUST0043,Monitor,Electronics,3,607.56,0.0,169.71,South,Hyderabad
+ORD00603,2025-06-07,CUST0094,Desk,Furniture,4,771.47,0.15,192.5,West,Ahmedabad
+ORD00239,2025-06-07,CUST0204,Notebook,Stationery,3,26.55,0.2,3.21,North,Jaipur
+ORD00307,2025-06-07,CUST0114,Tablet,Electronics,4,1034.36,0.05,339.38,East,Bhubaneswar
+ORD00410,2025-06-07,CUST0188,Mouse,Accessories,2,48.85,0.2,8.85,South,Hyderabad
+ORD00684,2025-06-07,CUST0080,Notebook,Stationery,2,25.29,0.0,9.35,South,Chennai
+ORD00888,2025-06-07,CUST0006,Headphones,Accessories,3,218.83,0.0,51.83,East,Bhubaneswar
+ORD00704,2025-06-07,CUST0181,Desk,Furniture,2,376.73,0.15,32.59,South,Kochi
+ORD00018,2025-06-07,CUST0062,Laptop,Electronics,1,705.78,0.0,144.16,West,Surat
+ORD00455,2025-06-07,CUST0108,Bookshelf,Furniture,1,126.24,0.0,29.18,South,Hyderabad
+ORD00178,2025-06-08,CUST0248,Keyboard,Accessories,1,48.28,0.15,2.65,South,Hyderabad
+ORD00367,2025-06-08,CUST0021,Webcam,Accessories,5,369.63,0.15,75.88,East,Kolkata
+ORD00379,2025-06-09,CUST0084,Desk,Furniture,1,231.81,0.1,32.27,North,Lucknow
+ORD00315,2025-06-10,CUST0046,Backpack,Bags,3,180.58,0.15,40.33,South,Hyderabad
+ORD00885,2025-06-10,CUST0085,Notebook,Stationery,1,12.24,0.0,2.76,West,Surat
+ORD00333,2025-06-10,CUST0031,Notebook,Stationery,3,31.15,0.15,3.5,East,Bhubaneswar
+ORD00960,2025-06-10,CUST0233,Desk,Furniture,4,798.84,0.2,5.28,West,Surat
+ORD00482,2025-06-10,CUST0004,Pen Set,Stationery,4,26.18,0.1,6.62,East,Kolkata
+ORD00242,2025-06-10,CUST0108,Notebook,Stationery,5,44.25,0.2,9.74,South,Bengaluru
+ORD00639,2025-06-11,CUST0006,Backpack,Bags,3,187.21,0.0,62.83,North,Ghaziabad
+ORD00869,2025-06-12,CUST0097,Notebook,Stationery,3,37.41,0.0,9.82,East,Ranchi
+ORD00887,2025-06-12,CUST0140,Headphones,Accessories,4,248.61,0.15,11.77,West,Mumbai
+ORD00246,2025-06-12,CUST0123,Keyboard,Accessories,3,124.27,0.2,6.06,South,Hyderabad
+ORD00732,2025-06-12,CUST0183,Notebook,Stationery,2,22.47,0.1,5.02,West,Mumbai
+ORD00694,2025-06-12,CUST0067,Smartphone,Electronics,5,1723.39,0.2,125.45,North,Lucknow
+ORD00667,2025-06-12,CUST0018,Webcam,Accessories,2,147.78,0.2,-0.63,South,Kochi
+ORD00413,2025-06-13,CUST0043,Backpack,Bags,2,129.56,0.05,38.51,North,Lucknow
+ORD00816,2025-06-13,CUST0040,Keyboard,Accessories,4,208.63,0.1,20.96,North,Delhi
+ORD00377,2025-06-13,CUST0070,Notebook,Stationery,2,21.65,0.05,3.34,North,Lucknow
+ORD00984,2025-06-14,CUST0103,Bookshelf,Furniture,5,536.4,0.1,103.28,South,Chennai
+ORD00998,2025-06-14,CUST0088,Bookshelf,Furniture,3,309.05,0.2,50.54,West,Ahmedabad
+ORD00497,2025-06-14,CUST0130,Backpack,Bags,1,60.34,0.1,10.64,South,Chennai
+ORD00277,2025-06-14,CUST0061,Desk,Furniture,5,1157.66,0.05,213.85,West,Pune
+ORD00252,2025-06-14,CUST0074,Tablet,Electronics,4,842.14,0.2,-13.46,East,Ranchi
+ORD00988,2025-06-15,CUST0067,Laptop,Electronics,4,2506.42,0.0,745.5,North,Jaipur
+ORD00350,2025-06-15,CUST0213,Notebook,Stationery,2,23.0,0.1,4.62,North,Lucknow
+ORD00698,2025-06-15,CUST0197,Laptop,Electronics,3,1875.03,0.0,522.5,South,Hyderabad
+ORD00615,2025-06-15,CUST0041,Office Chair,Furniture,4,671.51,0.1,162.34,North,Ghaziabad
+ORD00104,2025-06-15,CUST0030,Office Chair,Furniture,5,891.87,0.0,282.81,West,Surat
+ORD00431,2025-06-16,CUST0220,Notebook,Stationery,1,11.73,0.0,3.52,West,Ahmedabad
+ORD00987,2025-06-16,CUST0047,Bookshelf,Furniture,3,363.54,0.1,108.34,North,Ghaziabad
+ORD00309,2025-06-16,CUST0222,Headphones,Accessories,1,72.02,0.05,15.96,North,Delhi
+ORD00719,2025-06-16,CUST0117,Pen Set,Stationery,2,13.87,0.2,1.98,West,Surat
+ORD00256,2025-06-19,CUST0042,Office Chair,Furniture,5,773.2,0.1,101.58,East,Bhubaneswar
+ORD00892,2025-06-20,CUST0184,Bookshelf,Furniture,1,116.32,0.1,25.51,North,Jaipur
+ORD00825,2025-06-21,CUST0017,Notebook,Stationery,2,22.68,0.05,3.73,North,Ghaziabad
+ORD00683,2025-06-21,CUST0145,Headphones,Accessories,5,306.71,0.1,83.77,South,Kochi
+ORD00255,2025-06-21,CUST0073,Pen Set,Stationery,1,7.7,0.05,2.5,West,Mumbai
+ORD00004,2025-06-22,CUST0027,Bookshelf,Furniture,3,344.97,0.05,50.31,South,Kochi
+ORD00647,2025-06-22,CUST0022,Backpack,Bags,4,261.15,0.05,82.58,North,Ghaziabad
+ORD00464,2025-06-22,CUST0112,Smartphone,Electronics,3,1270.36,0.1,226.86,North,Jaipur
+ORD00068,2025-06-22,CUST0172,Webcam,Accessories,2,159.43,0.05,54.41,South,Kochi
+ORD00619,2025-06-23,CUST0239,Tablet,Electronics,2,559.99,0.0,135.97,West,Mumbai
+ORD00572,2025-06-23,CUST0247,Bookshelf,Furniture,4,440.55,0.15,93.99,West,Surat
+ORD00130,2025-06-23,CUST0206,Mouse,Accessories,3,88.57,0.1,21.74,West,Pune
+ORD00908,2025-06-23,CUST0225,Mouse,Accessories,5,142.81,0.0,39.88,South,Bengaluru
+ORD00963,2025-06-24,CUST0194,Headphones,Accessories,2,150.35,0.0,47.74,South,Hyderabad
+ORD00663,2025-06-24,CUST0230,Laptop,Electronics,1,602.13,0.15,130.97,West,Surat
+ORD00090,2025-06-24,CUST0048,Bookshelf,Furniture,1,105.73,0.15,16.7,East,Kolkata
+ORD00790,2025-06-25,CUST0057,Laptop,Electronics,1,580.15,0.1,158.42,West,Pune
+ORD00809,2025-06-25,CUST0168,Monitor,Electronics,2,384.82,0.15,66.85,North,Delhi
+ORD00498,2025-06-25,CUST0249,Pen Set,Stationery,5,33.68,0.2,5.27,East,Ranchi
+ORD00611,2025-06-25,CUST0108,Webcam,Accessories,2,158.12,0.0,44.47,East,Kolkata
+ORD00575,2025-06-25,CUST0020,Notebook,Stationery,3,35.27,0.0,8.12,West,Pune
+ORD00839,2025-06-25,CUST0045,Mouse,Accessories,2,58.21,0.1,10.38,West,Ahmedabad
+ORD00500,2025-06-26,CUST0236,Notebook,Stationery,2,24.6,0.0,7.92,West,Pune
+ORD00590,2025-06-26,CUST0006,Mouse,Accessories,3,77.38,0.15,6.19,West,Ahmedabad
+ORD00433,2025-06-26,CUST0225,Tablet,Electronics,5,1480.01,0.0,305.63,North,Delhi
+ORD00748,2025-06-26,CUST0014,Headphones,Accessories,4,246.6,0.2,42.48,East,Bhubaneswar
+ORD00226,2025-06-26,CUST0250,Office Chair,Furniture,5,866.26,0.0,204.72,South,Hyderabad
+ORD00371,2025-06-27,CUST0134,Tablet,Electronics,2,404.22,0.2,40.79,North,Delhi
+ORD00303,2025-06-27,CUST0014,Pen Set,Stationery,2,13.37,0.2,1.33,West,Surat
+ORD00332,2025-06-28,CUST0091,Printer,Electronics,5,874.03,0.1,157.9,East,Patna
+ORD00072,2025-06-29,CUST0058,Notebook,Stationery,1,9.68,0.2,-0.24,North,Lucknow
+ORD00296,2025-07-01,CUST0069,Pen Set,Stationery,2,16.38,0.0,5.4,North,Ghaziabad
+ORD00025,2025-07-01,CUST0109,Office Chair,Furniture,4,661.58,0.0,164.2,South,Kochi
+ORD00906,2025-07-01,CUST0156,Smartphone,Electronics,1,464.36,0.05,115.27,North,Delhi
+ORD00833,2025-07-02,CUST0013,Mouse,Accessories,3,84.12,0.05,13.06,South,Bengaluru
+ORD00390,2025-07-02,CUST0102,Printer,Electronics,2,335.61,0.05,66.33,West,Mumbai
+ORD00731,2025-07-03,CUST0029,Keyboard,Accessories,5,247.55,0.0,66.34,North,Jaipur
+ORD00968,2025-07-04,CUST0117,Tablet,Electronics,1,266.88,0.05,81.89,East,Bhubaneswar
+ORD00849,2025-07-04,CUST0181,Headphones,Accessories,1,62.24,0.1,17.48,North,Jaipur
+ORD00105,2025-07-05,CUST0160,Bookshelf,Furniture,5,574.85,0.1,154.88,East,Kolkata
+ORD00264,2025-07-05,CUST0020,Printer,Electronics,5,954.85,0.0,261.98,South,Chennai
+ORD00180,2025-07-05,CUST0005,Bookshelf,Furniture,5,668.98,0.0,197.56,West,Pune
+ORD00006,2025-07-05,CUST0148,Smartphone,Electronics,5,2278.32,0.05,494.75,East,Kolkata
+ORD00128,2025-07-06,CUST0188,Notebook,Stationery,1,12.06,0.05,4.11,South,Bengaluru
+ORD00209,2025-07-07,CUST0093,Laptop,Electronics,1,593.74,0.0,133.17,South,Kochi
+ORD00865,2025-07-07,CUST0090,Headphones,Accessories,3,203.77,0.0,75.6,West,Ahmedabad
+ORD00232,2025-07-07,CUST0196,Office Chair,Furniture,1,150.14,0.1,37.89,West,Mumbai
+ORD00629,2025-07-07,CUST0057,Notebook,Stationery,5,53.05,0.15,11.16,East,Ranchi
+ORD00801,2025-07-07,CUST0045,Pen Set,Stationery,4,30.19,0.05,10.23,North,Delhi
+ORD00340,2025-07-07,CUST0139,Office Chair,Furniture,5,858.22,0.0,232.9,East,Kolkata
+ORD00132,2025-07-08,CUST0173,Notebook,Stationery,4,45.74,0.0,16.25,West,Mumbai
+ORD00074,2025-07-08,CUST0043,Tablet,Electronics,5,1390.21,0.0,457.03,East,Kolkata
+ORD00631,2025-07-08,CUST0204,Bookshelf,Furniture,5,565.58,0.2,68.44,North,Jaipur
+ORD00348,2025-07-08,CUST0117,Headphones,Accessories,1,67.71,0.1,16.88,East,Kolkata
+ORD00037,2025-07-09,CUST0073,Desk,Furniture,2,490.73,0.05,79.62,South,Hyderabad
+ORD00077,2025-07-09,CUST0018,Webcam,Accessories,5,412.01,0.0,121.26,West,Mumbai
+ORD00822,2025-07-10,CUST0004,Printer,Electronics,2,325.51,0.2,43.16,West,Surat
+ORD00636,2025-07-10,CUST0106,Backpack,Bags,3,182.04,0.15,35.35,East,Patna
+ORD00151,2025-07-10,CUST0208,Pen Set,Stationery,1,7.35,0.0,2.65,East,Kolkata
+ORD00705,2025-07-10,CUST0116,Notebook,Stationery,3,29.72,0.1,3.45,West,Mumbai
+ORD00448,2025-07-11,CUST0144,Backpack,Bags,1,60.77,0.15,2.63,East,Kolkata
+ORD00861,2025-07-12,CUST0114,Bookshelf,Furniture,4,507.9,0.0,161.05,North,Delhi
+ORD00305,2025-07-12,CUST0111,Bookshelf,Furniture,3,350.34,0.1,81.29,West,Mumbai
+ORD00703,2025-07-12,CUST0161,Backpack,Bags,1,62.15,0.0,23.23,West,Ahmedabad
+ORD00179,2025-07-12,CUST0165,Printer,Electronics,5,826.58,0.2,122.01,East,Bhubaneswar
+ORD00897,2025-07-13,CUST0242,Printer,Electronics,2,373.5,0.0,128.34,West,Ahmedabad
+ORD00995,2025-07-14,CUST0090,Tablet,Electronics,4,1084.83,0.05,185.11,North,Delhi
+ORD00726,2025-07-14,CUST0084,Keyboard,Accessories,5,285.2,0.0,74.35,East,Kolkata
+ORD00241,2025-07-14,CUST0038,Webcam,Accessories,2,148.23,0.15,18.5,North,Lucknow
+ORD00046,2025-07-15,CUST0224,Tablet,Electronics,2,495.74,0.05,99.02,West,Surat
+ORD00186,2025-07-15,CUST0129,Notebook,Stationery,5,53.59,0.1,13.32,South,Hyderabad
+ORD00573,2025-07-15,CUST0163,Bookshelf,Furniture,5,647.66,0.0,212.72,East,Ranchi
+ORD00360,2025-07-16,CUST0090,Headphones,Accessories,1,69.6,0.0,24.73,East,Bhubaneswar
+ORD00515,2025-07-17,CUST0066,Pen Set,Stationery,3,23.4,0.1,2.37,South,Bengaluru
+ORD00177,2025-07-17,CUST0073,Headphones,Accessories,3,217.34,0.0,58.34,West,Mumbai
+ORD00924,2025-07-18,CUST0122,Tablet,Electronics,3,671.14,0.15,111.26,West,Mumbai
+ORD00788,2025-07-18,CUST0096,Office Chair,Furniture,2,390.81,0.0,112.95,North,Lucknow
+ORD00302,2025-07-19,CUST0174,Notebook,Stationery,3,36.46,0.0,9.72,East,Kolkata
+ORD00599,2025-07-19,CUST0080,Smartphone,Electronics,5,2062.94,0.0,399.55,North,Jaipur
+ORD00362,2025-07-20,CUST0076,Webcam,Accessories,3,255.91,0.0,71.17,West,Mumbai
+ORD00715,2025-07-20,CUST0046,Tablet,Electronics,1,273.48,0.0,99.21,North,Lucknow
+ORD01000,2025-07-21,CUST0138,Laptop,Electronics,4,2384.71,0.15,250.65,North,Ghaziabad
+ORD00385,2025-07-21,CUST0020,Webcam,Accessories,1,66.41,0.15,15.89,West,Surat
+ORD00386,2025-07-21,CUST0180,Backpack,Bags,2,124.58,0.0,26.14,North,Lucknow
+ORD00069,2025-07-21,CUST0152,Printer,Electronics,4,833.07,0.0,227.57,East,Bhubaneswar
+ORD00313,2025-07-22,CUST0086,Monitor,Electronics,4,815.85,0.0,308.92,East,Bhubaneswar
+ORD00247,2025-07-22,CUST0210,Mouse,Accessories,1,26.4,0.15,4.78,West,Ahmedabad
+ORD00907,2025-07-22,CUST0172,Printer,Electronics,3,496.09,0.15,98.92,North,Delhi
+ORD00201,2025-07-23,CUST0209,Keyboard,Accessories,2,105.94,0.0,33.69,South,Bengaluru
+ORD00131,2025-07-23,CUST0248,Smartphone,Electronics,2,964.83,0.0,226.89,East,Kolkata
+ORD00285,2025-07-23,CUST0235,Pen Set,Stationery,4,33.25,0.0,7.95,South,Bengaluru
+ORD00588,2025-07-23,CUST0026,Desk,Furniture,3,692.5,0.05,157.77,West,Surat
+ORD00883,2025-07-23,CUST0242,Backpack,Bags,4,255.48,0.05,41.11,West,Mumbai
+ORD00149,2025-07-24,CUST0107,Printer,Electronics,4,746.9,0.0,160.22,South,Kochi
+ORD00010,2025-07-25,CUST0069,Printer,Electronics,1,202.23,0.0,44.29,South,Hyderabad
+ORD00872,2025-07-25,CUST0206,Printer,Electronics,3,492.5,0.05,67.79,North,Ghaziabad
+ORD00033,2025-07-26,CUST0031,Laptop,Electronics,1,504.76,0.15,34.23,North,Ghaziabad
+ORD00439,2025-07-26,CUST0035,Desk,Furniture,5,1095.75,0.0,260.88,West,Mumbai
+ORD00465,2025-07-26,CUST0005,Pen Set,Stationery,4,31.92,0.05,9.98,South,Hyderabad
+ORD00854,2025-07-26,CUST0032,Pen Set,Stationery,3,23.23,0.0,6.07,South,Bengaluru
+ORD00548,2025-07-27,CUST0154,Desk,Furniture,1,228.4,0.0,78.57,North,Ghaziabad
+ORD00261,2025-07-27,CUST0176,Printer,Electronics,1,140.39,0.2,20.82,West,Pune
+ORD00979,2025-07-29,CUST0100,Office Chair,Furniture,3,572.38,0.0,141.44,East,Bhubaneswar
+ORD00120,2025-07-30,CUST0145,Mouse,Accessories,3,84.31,0.05,24.95,North,Jaipur
+ORD00866,2025-07-30,CUST0090,Bookshelf,Furniture,4,512.53,0.0,93.08,North,Jaipur
+ORD00113,2025-07-30,CUST0012,Office Chair,Furniture,2,298.84,0.15,20.67,West,Pune
+ORD00103,2025-07-30,CUST0178,Mouse,Accessories,3,66.31,0.2,12.26,East,Patna
+ORD00668,2025-07-31,CUST0247,Desk,Furniture,3,752.7,0.0,170.8,North,Ghaziabad
+ORD00045,2025-07-31,CUST0007,Notebook,Stationery,2,26.29,0.0,5.73,East,Bhubaneswar
+ORD00701,2025-07-31,CUST0238,Tablet,Electronics,4,1027.38,0.15,166.2,East,Bhubaneswar
+ORD00225,2025-08-01,CUST0124,Monitor,Electronics,4,913.2,0.0,318.15,East,Patna
+ORD00494,2025-08-01,CUST0012,Notebook,Stationery,4,50.08,0.0,17.95,East,Bhubaneswar
+ORD00432,2025-08-01,CUST0039,Keyboard,Accessories,5,234.8,0.15,40.35,East,Kolkata
+ORD00065,2025-08-01,CUST0016,Headphones,Accessories,1,66.25,0.1,12.62,South,Chennai
+ORD00058,2025-08-01,CUST0227,Laptop,Electronics,4,2364.58,0.15,599.3,North,Ghaziabad
+ORD00366,2025-08-01,CUST0109,Pen Set,Stationery,5,38.98,0.05,9.43,North,Lucknow
+ORD00824,2025-08-01,CUST0036,Headphones,Accessories,2,131.29,0.2,15.63,East,Patna
+ORD00946,2025-08-01,CUST0242,Office Chair,Furniture,2,367.61,0.0,132.27,South,Chennai
+ORD00281,2025-08-02,CUST0143,Monitor,Electronics,2,428.85,0.1,79.83,South,Hyderabad
+ORD00195,2025-08-02,CUST0048,Monitor,Electronics,4,900.21,0.0,298.77,South,Hyderabad
+ORD00971,2025-08-02,CUST0211,Headphones,Accessories,4,280.21,0.1,28.16,West,Surat
+ORD00944,2025-08-02,CUST0214,Monitor,Electronics,2,436.64,0.05,115.79,West,Surat
+ORD00067,2025-08-03,CUST0138,Office Chair,Furniture,3,520.36,0.1,51.64,North,Jaipur
+ORD00383,2025-08-03,CUST0126,Mouse,Accessories,3,84.69,0.0,15.53,North,Lucknow
+ORD00334,2025-08-03,CUST0153,Monitor,Electronics,2,434.17,0.05,104.12,West,Mumbai
+ORD00071,2025-08-04,CUST0065,Mouse,Accessories,3,89.97,0.05,24.07,South,Kochi
+ORD00364,2025-08-04,CUST0094,Desk,Furniture,3,703.7,0.0,149.33,North,Jaipur
+ORD00020,2025-08-05,CUST0247,Tablet,Electronics,5,1334.22,0.0,274.2,South,Kochi
+ORD00993,2025-08-05,CUST0247,Bookshelf,Furniture,5,686.66,0.0,187.11,South,Hyderabad
+ORD00803,2025-08-05,CUST0071,Bookshelf,Furniture,3,399.99,0.05,96.54,South,Chennai
+ORD00356,2025-08-05,CUST0178,Printer,Electronics,1,147.24,0.2,28.69,East,Kolkata
+ORD00152,2025-08-05,CUST0223,Tablet,Electronics,1,244.62,0.1,39.93,North,Jaipur
+ORD00736,2025-08-06,CUST0142,Tablet,Electronics,5,1291.06,0.1,271.3,East,Ranchi
+ORD00085,2025-08-06,CUST0191,Webcam,Accessories,5,401.59,0.05,94.61,South,Hyderabad
+ORD00925,2025-08-07,CUST0024,Keyboard,Accessories,4,213.76,0.05,54.72,East,Kolkata
+ORD00206,2025-08-07,CUST0043,Mouse,Accessories,3,69.06,0.2,7.84,North,Delhi
+ORD00352,2025-08-08,CUST0052,Smartphone,Electronics,1,444.72,0.0,168.94,East,Kolkata
+ORD00093,2025-08-08,CUST0079,Headphones,Accessories,4,259.06,0.1,46.72,South,Kochi
+ORD00792,2025-08-08,CUST0189,Headphones,Accessories,5,360.25,0.1,89.73,East,Bhubaneswar
+ORD00162,2025-08-09,CUST0045,Monitor,Electronics,3,579.35,0.05,140.59,South,Hyderabad
+ORD00419,2025-08-09,CUST0242,Pen Set,Stationery,5,36.67,0.15,3.84,North,Jaipur
+ORD00395,2025-08-10,CUST0211,Pen Set,Stationery,1,6.55,0.1,0.69,West,Mumbai
+ORD00939,2025-08-10,CUST0107,Keyboard,Accessories,3,151.89,0.0,31.97,East,Kolkata
+ORD00483,2025-08-10,CUST0170,Webcam,Accessories,5,374.85,0.15,46.9,South,Hyderabad
+ORD00729,2025-08-11,CUST0184,Monitor,Electronics,5,845.6,0.2,-9.16,West,Ahmedabad
+ORD00750,2025-08-11,CUST0004,Bookshelf,Furniture,4,445.78,0.1,86.14,South,Kochi
+ORD00050,2025-08-12,CUST0156,Keyboard,Accessories,5,239.86,0.1,32.7,North,Delhi
+ORD00950,2025-08-13,CUST0205,Pen Set,Stationery,5,35.15,0.15,3.67,West,Pune
+ORD00673,2025-08-13,CUST0222,Keyboard,Accessories,2,100.45,0.0,19.54,East,Bhubaneswar
+ORD00621,2025-08-13,CUST0188,Office Chair,Furniture,5,756.96,0.2,17.87,South,Hyderabad
+ORD00342,2025-08-13,CUST0222,Monitor,Electronics,4,810.68,0.05,142.21,West,Mumbai
+ORD00203,2025-08-14,CUST0230,Printer,Electronics,1,178.22,0.05,46.9,West,Ahmedabad
+ORD00507,2025-08-15,CUST0213,Desk,Furniture,3,737.36,0.0,165.03,North,Delhi
+ORD00159,2025-08-15,CUST0107,Bookshelf,Furniture,3,362.37,0.1,73.63,North,Delhi
+ORD00248,2025-08-15,CUST0168,Mouse,Accessories,1,31.1,0.05,10.29,South,Hyderabad
+ORD00687,2025-08-15,CUST0021,Pen Set,Stationery,2,14.03,0.15,2.3,East,Bhubaneswar
+ORD00823,2025-08-16,CUST0190,Keyboard,Accessories,3,159.62,0.1,46.55,West,Ahmedabad
+ORD00810,2025-08-16,CUST0118,Printer,Electronics,5,789.92,0.2,11.47,West,Surat
+ORD00725,2025-08-16,CUST0046,Pen Set,Stationery,5,33.75,0.15,4.73,East,Kolkata
+ORD00184,2025-08-16,CUST0157,Backpack,Bags,1,56.91,0.1,8.6,South,Kochi
+ORD00714,2025-08-16,CUST0013,Keyboard,Accessories,1,53.43,0.05,14.75,South,Chennai
+ORD00728,2025-08-17,CUST0051,Laptop,Electronics,4,2117.84,0.15,266.31,South,Chennai
+ORD00275,2025-08-17,CUST0154,Bookshelf,Furniture,2,237.5,0.0,62.04,East,Kolkata
+ORD00212,2025-08-17,CUST0055,Tablet,Electronics,5,1333.3,0.0,437.25,East,Ranchi
+ORD00646,2025-08-17,CUST0193,Mouse,Accessories,1,25.11,0.2,3.18,South,Chennai
+ORD00961,2025-08-17,CUST0165,Mouse,Accessories,5,138.22,0.15,14.62,North,Jaipur
+ORD00820,2025-08-17,CUST0174,Laptop,Electronics,3,1763.79,0.0,480.31,South,Chennai
+ORD00592,2025-08-17,CUST0228,Bookshelf,Furniture,3,312.65,0.2,9.79,West,Ahmedabad
+ORD00942,2025-08-18,CUST0179,Keyboard,Accessories,1,50.71,0.1,8.49,East,Ranchi
+ORD00487,2025-08-18,CUST0023,Printer,Electronics,2,376.89,0.0,82.82,East,Ranchi
+ORD00282,2025-08-19,CUST0217,Desk,Furniture,2,428.94,0.05,90.6,South,Kochi
+ORD00589,2025-08-19,CUST0191,Webcam,Accessories,2,160.74,0.05,34.52,South,Bengaluru
+ORD00769,2025-08-19,CUST0248,Office Chair,Furniture,5,692.31,0.2,63.35,East,Kolkata
+ORD00977,2025-08-20,CUST0231,Smartphone,Electronics,1,403.48,0.1,97.76,West,Mumbai
+ORD00391,2025-08-20,CUST0143,Desk,Furniture,3,652.48,0.0,195.17,North,Jaipur
+ORD00900,2025-08-21,CUST0212,Smartphone,Electronics,5,2031.35,0.0,558.28,West,Pune
+ORD00797,2025-08-21,CUST0119,Office Chair,Furniture,4,642.27,0.15,170.1,West,Pune
+ORD00139,2025-08-21,CUST0024,Mouse,Accessories,4,106.93,0.05,34.4,West,Mumbai
+ORD00157,2025-08-21,CUST0088,Smartphone,Electronics,1,362.19,0.2,47.43,South,Bengaluru
+ORD00918,2025-08-21,CUST0161,Mouse,Accessories,1,28.79,0.1,4.74,South,Bengaluru
+ORD00931,2025-08-21,CUST0194,Headphones,Accessories,4,230.29,0.2,18.01,North,Delhi
+ORD00784,2025-08-21,CUST0012,Mouse,Accessories,4,110.22,0.05,19.6,West,Pune
+ORD00440,2025-08-22,CUST0013,Bookshelf,Furniture,2,277.52,0.0,91.61,North,Ghaziabad
+ORD00478,2025-08-22,CUST0070,Webcam,Accessories,3,235.31,0.0,70.58,North,Jaipur
+ORD00200,2025-08-23,CUST0010,Bookshelf,Furniture,2,237.28,0.0,53.33,East,Ranchi
+ORD00230,2025-08-23,CUST0248,Office Chair,Furniture,4,660.97,0.0,199.19,East,Patna
+ORD00956,2025-08-23,CUST0244,Tablet,Electronics,2,495.27,0.1,109.03,East,Bhubaneswar
+ORD00458,2025-08-23,CUST0037,Headphones,Accessories,2,145.28,0.0,26.52,North,Ghaziabad
+ORD00660,2025-08-23,CUST0144,Smartphone,Electronics,5,1754.92,0.15,392.74,West,Surat
+ORD00005,2025-08-24,CUST0138,Smartphone,Electronics,3,1309.11,0.05,232.3,East,Kolkata
+ORD00244,2025-08-24,CUST0234,Tablet,Electronics,4,928.55,0.15,42.24,South,Hyderabad
+ORD00978,2025-08-24,CUST0195,Mouse,Accessories,5,157.86,0.0,44.05,East,Ranchi
+ORD00868,2025-08-24,CUST0169,Notebook,Stationery,3,32.54,0.0,10.24,West,Mumbai
+ORD00108,2025-08-25,CUST0243,Desk,Furniture,1,263.63,0.0,52.05,North,Lucknow
+ORD00880,2025-08-26,CUST0125,Monitor,Electronics,2,417.61,0.0,89.6,North,Ghaziabad
+ORD00060,2025-08-26,CUST0013,Bookshelf,Furniture,2,275.81,0.0,66.42,North,Lucknow
+ORD00014,2025-08-28,CUST0136,Smartphone,Electronics,4,1396.44,0.15,252.47,South,Chennai
+ORD00876,2025-08-28,CUST0069,Desk,Furniture,5,1218.44,0.0,411.11,South,Bengaluru
+ORD00623,2025-08-28,CUST0071,Office Chair,Furniture,2,286.82,0.15,54.15,West,Surat
+ORD00456,2025-08-29,CUST0014,Bookshelf,Furniture,3,317.85,0.15,22.35,West,Ahmedabad
+ORD00185,2025-08-29,CUST0232,Keyboard,Accessories,5,264.52,0.0,57.74,East,Bhubaneswar
+ORD00912,2025-08-29,CUST0067,Notebook,Stationery,2,21.86,0.0,7.5,East,Kolkata
+ORD00787,2025-08-30,CUST0150,Monitor,Electronics,4,858.09,0.0,288.2,North,Ghaziabad
+ORD00191,2025-08-30,CUST0179,Pen Set,Stationery,2,14.52,0.0,2.85,North,Jaipur
+ORD00236,2025-08-31,CUST0133,Backpack,Bags,1,60.28,0.0,18.89,East,Kolkata
+ORD00442,2025-08-31,CUST0151,Smartphone,Electronics,3,1237.85,0.1,336.26,North,Ghaziabad
+ORD00523,2025-08-31,CUST0041,Backpack,Bags,4,229.09,0.1,37.63,North,Jaipur
+ORD00435,2025-09-01,CUST0236,Tablet,Electronics,4,1104.54,0.05,372.22,East,Kolkata
+ORD00062,2025-09-01,CUST0116,Mouse,Accessories,5,145.72,0.1,21.25,East,Ranchi
+ORD00749,2025-09-01,CUST0192,Printer,Electronics,1,188.63,0.0,53.71,West,Mumbai
+ORD00802,2025-09-02,CUST0189,Printer,Electronics,2,342.13,0.05,110.67,North,Ghaziabad
+ORD00532,2025-09-03,CUST0119,Webcam,Accessories,3,264.16,0.0,82.86,East,Patna
+ORD00764,2025-09-04,CUST0032,Headphones,Accessories,5,337.75,0.0,63.89,East,Kolkata
+ORD00549,2025-09-04,CUST0044,Backpack,Bags,1,64.34,0.0,11.67,North,Jaipur
+ORD00554,2025-09-04,CUST0203,Bookshelf,Furniture,3,405.42,0.0,119.28,East,Ranchi
+ORD00109,2025-09-05,CUST0121,Smartphone,Electronics,3,1194.64,0.15,206.46,South,Kochi
+ORD00326,2025-09-05,CUST0090,Notebook,Stationery,3,33.89,0.05,10.29,South,Hyderabad
+ORD00124,2025-09-05,CUST0028,Printer,Electronics,4,678.57,0.05,180.76,East,Patna
+ORD00622,2025-09-06,CUST0181,Monitor,Electronics,3,489.43,0.2,0.17,North,Lucknow
+ORD00836,2025-09-06,CUST0106,Mouse,Accessories,2,55.64,0.0,18.01,North,Jaipur
+ORD00438,2025-09-06,CUST0195,Headphones,Accessories,4,324.81,0.0,96.98,North,Ghaziabad
+ORD00399,2025-09-06,CUST0089,Monitor,Electronics,4,684.16,0.2,60.8,South,Bengaluru
+ORD00543,2025-09-07,CUST0203,Keyboard,Accessories,5,240.22,0.1,28.42,East,Bhubaneswar
+ORD00516,2025-09-07,CUST0012,Desk,Furniture,5,1143.26,0.05,274.68,West,Mumbai
+ORD00409,2025-09-07,CUST0167,Keyboard,Accessories,2,95.9,0.2,2.6,West,Pune
+ORD00117,2025-09-07,CUST0224,Headphones,Accessories,5,368.15,0.1,63.25,North,Jaipur
+ORD00083,2025-09-08,CUST0143,Keyboard,Accessories,5,252.21,0.0,59.52,West,Mumbai
+ORD00040,2025-09-08,CUST0065,Keyboard,Accessories,2,90.36,0.2,14.37,South,Hyderabad
+ORD00976,2025-09-08,CUST0001,Bookshelf,Furniture,3,349.42,0.05,61.12,East,Kolkata
+ORD00763,2025-09-09,CUST0123,Keyboard,Accessories,4,168.44,0.15,17.53,South,Hyderabad
+ORD00989,2025-09-10,CUST0131,Headphones,Accessories,2,157.56,0.0,41.4,North,Delhi
+ORD00404,2025-09-10,CUST0139,Pen Set,Stationery,5,31.57,0.15,1.5,North,Jaipur
+ORD00747,2025-09-11,CUST0193,Desk,Furniture,1,244.59,0.0,52.75,North,Jaipur
+ORD00254,2025-09-11,CUST0048,Pen Set,Stationery,2,17.59,0.0,5.29,South,Kochi
+ORD00864,2025-09-11,CUST0152,Office Chair,Furniture,5,901.2,0.0,271.91,East,Ranchi
+ORD00926,2025-09-11,CUST0135,Laptop,Electronics,2,1078.74,0.2,200.9,West,Surat
+ORD00695,2025-09-12,CUST0127,Desk,Furniture,5,1019.26,0.15,100.92,West,Pune
+ORD00229,2025-09-13,CUST0132,Monitor,Electronics,5,847.04,0.2,28.99,South,Hyderabad
+ORD00780,2025-09-13,CUST0157,Office Chair,Furniture,2,317.73,0.15,41.4,East,Bhubaneswar
+ORD00495,2025-09-13,CUST0002,Pen Set,Stationery,4,26.06,0.2,2.58,North,Lucknow
+ORD00992,2025-09-14,CUST0053,Bookshelf,Furniture,5,578.68,0.1,71.21,South,Hyderabad
+ORD00174,2025-09-14,CUST0039,Bookshelf,Furniture,5,487.58,0.2,35.96,North,Lucknow
+ORD00845,2025-09-16,CUST0146,Backpack,Bags,2,116.71,0.15,14.75,West,Ahmedabad
+ORD00794,2025-09-16,CUST0009,Tablet,Electronics,1,307.51,0.0,71.74,North,Lucknow
+ORD00997,2025-09-16,CUST0246,Headphones,Accessories,5,383.2,0.05,116.1,North,Ghaziabad
+ORD00196,2025-09-17,CUST0142,Printer,Electronics,1,162.92,0.15,13.93,North,Jaipur
+ORD00320,2025-09-17,CUST0237,Headphones,Accessories,4,253.94,0.15,44.76,East,Kolkata
+ORD00570,2025-09-17,CUST0028,Backpack,Bags,4,199.11,0.15,45.68,South,Kochi
+ORD00659,2025-09-18,CUST0182,Notebook,Stationery,3,28.15,0.2,-0.56,North,Delhi
+ORD00375,2025-09-18,CUST0001,Tablet,Electronics,5,1169.9,0.2,196.42,West,Mumbai
+ORD00566,2025-09-19,CUST0133,Office Chair,Furniture,5,802.8,0.05,146.37,North,Ghaziabad
+ORD00323,2025-09-19,CUST0192,Printer,Electronics,4,685.6,0.0,225.05,East,Patna
+ORD00266,2025-09-19,CUST0115,Notebook,Stationery,2,19.52,0.2,3.95,East,Kolkata
+ORD00499,2025-09-20,CUST0077,Keyboard,Accessories,2,101.03,0.1,11.53,East,Bhubaneswar
+ORD00972,2025-09-20,CUST0221,Tablet,Electronics,4,888.42,0.2,-15.11,South,Chennai
+ORD00842,2025-09-20,CUST0152,Laptop,Electronics,1,599.02,0.0,132.62,East,Ranchi
+ORD00258,2025-09-21,CUST0084,Bookshelf,Furniture,5,561.29,0.2,10.24,South,Chennai
+ORD00848,2025-09-21,CUST0059,Tablet,Electronics,2,583.21,0.05,150.52,East,Kolkata
+ORD00194,2025-09-21,CUST0148,Printer,Electronics,1,174.31,0.1,53.59,East,Kolkata
+ORD00957,2025-09-22,CUST0242,Notebook,Stationery,4,50.59,0.0,11.96,West,Mumbai
+ORD00021,2025-09-22,CUST0116,Monitor,Electronics,4,725.1,0.2,83.73,South,Hyderabad
+ORD00708,2025-09-22,CUST0174,Mouse,Accessories,3,94.85,0.0,34.18,East,Patna
+ORD00607,2025-09-22,CUST0196,Webcam,Accessories,2,147.91,0.05,31.91,East,Ranchi
+ORD00220,2025-09-23,CUST0230,Tablet,Electronics,2,578.26,0.05,173.42,West,Pune
+ORD00101,2025-09-23,CUST0167,Notebook,Stationery,5,63.16,0.0,21.79,North,Jaipur
+ORD00970,2025-09-23,CUST0200,Monitor,Electronics,3,530.77,0.2,41.37,East,Kolkata
+ORD00204,2025-09-23,CUST0069,Headphones,Accessories,4,239.88,0.2,-1.46,West,Pune
+ORD00859,2025-09-24,CUST0197,Mouse,Accessories,5,117.21,0.15,29.61,South,Hyderabad
+ORD00384,2025-09-24,CUST0106,Laptop,Electronics,1,704.77,0.0,141.34,South,Hyderabad
+ORD00447,2025-09-24,CUST0212,Pen Set,Stationery,4,28.69,0.05,8.14,East,Patna
+ORD00469,2025-09-24,CUST0070,Webcam,Accessories,1,79.47,0.05,25.91,South,Chennai
+ORD00974,2025-09-25,CUST0040,Pen Set,Stationery,1,7.79,0.0,2.51,North,Lucknow
+ORD00034,2025-09-25,CUST0081,Pen Set,Stationery,5,39.35,0.0,10.36,South,Bengaluru
+ORD00884,2025-09-25,CUST0171,Notebook,Stationery,1,10.68,0.15,0.55,South,Chennai
+ORD00427,2025-09-25,CUST0108,Smartphone,Electronics,5,2274.12,0.0,481.75,West,Surat
+ORD00682,2025-09-26,CUST0182,Tablet,Electronics,1,221.73,0.2,29.77,North,Delhi
+ORD00598,2025-09-26,CUST0196,Smartphone,Electronics,4,1393.47,0.15,124.29,North,Delhi
+ORD00087,2025-09-26,CUST0153,Smartphone,Electronics,2,717.72,0.2,31.47,South,Chennai
+ORD00217,2025-09-27,CUST0106,Backpack,Bags,3,193.04,0.1,29.22,North,Delhi
+ORD00739,2025-09-27,CUST0220,Office Chair,Furniture,5,884.8,0.1,259.53,West,Mumbai
+ORD00182,2025-09-27,CUST0010,Tablet,Electronics,1,250.89,0.15,18.58,North,Jaipur
+ORD00985,2025-09-28,CUST0082,Backpack,Bags,1,60.97,0.05,15.85,North,Lucknow
+ORD00457,2025-09-29,CUST0077,Notebook,Stationery,2,18.85,0.15,2.08,North,Lucknow
+ORD00781,2025-09-29,CUST0025,Smartphone,Electronics,4,1820.78,0.0,622.02,West,Ahmedabad
+ORD00873,2025-09-29,CUST0122,Monitor,Electronics,5,997.63,0.05,227.58,North,Delhi
+ORD00017,2025-09-29,CUST0236,Printer,Electronics,2,379.95,0.05,88.84,West,Pune
+ORD00032,2025-09-29,CUST0041,Webcam,Accessories,1,71.91,0.15,3.9,West,Mumbai
+ORD00019,2025-09-30,CUST0197,Laptop,Electronics,1,518.54,0.2,107.7,South,Bengaluru
+ORD00273,2025-09-30,CUST0098,Monitor,Electronics,3,614.61,0.1,116.85,North,Delhi
+ORD00751,2025-09-30,CUST0164,Keyboard,Accessories,3,145.38,0.15,37.94,East,Ranchi
+ORD00711,2025-09-30,CUST0082,Keyboard,Accessories,2,98.24,0.05,28.2,North,Jaipur
+ORD00521,2025-10-01,CUST0002,Headphones,Accessories,4,257.46,0.05,52.94,East,Ranchi
+ORD00675,2025-10-02,CUST0135,Notebook,Stationery,4,44.38,0.15,6.03,East,Patna
+ORD00263,2025-10-03,CUST0206,Tablet,Electronics,4,904.82,0.2,97.08,East,Patna
+ORD00517,2025-10-03,CUST0137,Keyboard,Accessories,5,299.65,0.0,103.83,South,Hyderabad
+ORD00591,2025-10-03,CUST0045,Headphones,Accessories,5,380.76,0.0,95.2,North,Jaipur
+ORD00962,2025-10-03,CUST0086,Monitor,Electronics,4,947.05,0.0,343.91,East,Patna
+ORD00280,2025-10-03,CUST0122,Headphones,Accessories,4,287.99,0.0,98.84,West,Surat
+ORD00518,2025-10-03,CUST0213,Laptop,Electronics,2,1024.24,0.2,203.85,North,Ghaziabad
+ORD00571,2025-10-03,CUST0209,Desk,Furniture,3,763.62,0.0,144.06,North,Jaipur
+ORD00655,2025-10-03,CUST0055,Webcam,Accessories,4,276.79,0.1,73.25,North,Jaipur
+ORD00129,2025-10-04,CUST0225,Tablet,Electronics,3,660.64,0.2,115.48,North,Jaipur
+ORD00136,2025-10-04,CUST0108,Pen Set,Stationery,4,31.44,0.05,6.01,South,Kochi
+ORD00860,2025-10-05,CUST0088,Office Chair,Furniture,3,431.82,0.2,42.67,East,Bhubaneswar
+ORD00031,2025-10-05,CUST0016,Webcam,Accessories,2,152.38,0.05,51.05,East,Bhubaneswar
+ORD00504,2025-10-05,CUST0009,Printer,Electronics,1,160.64,0.2,27.95,West,Pune
+ORD00291,2025-10-05,CUST0165,Bookshelf,Furniture,2,209.94,0.2,37.58,West,Pune
+ORD00624,2025-10-05,CUST0094,Notebook,Stationery,5,59.39,0.0,12.83,South,Bengaluru
+ORD00214,2025-10-05,CUST0075,Webcam,Accessories,3,197.77,0.2,41.28,East,Kolkata
+ORD00535,2025-10-06,CUST0229,Laptop,Electronics,5,3514.1,0.0,947.69,North,Lucknow
+ORD00112,2025-10-06,CUST0097,Backpack,Bags,4,220.31,0.15,42.38,East,Bhubaneswar
+ORD00512,2025-10-06,CUST0138,Desk,Furniture,5,1268.7,0.0,441.67,South,Chennai
+ORD00205,2025-10-07,CUST0076,Bookshelf,Furniture,1,119.4,0.1,15.33,North,Lucknow
+ORD00893,2025-10-08,CUST0189,Headphones,Accessories,3,174.66,0.15,29.96,North,Ghaziabad
+ORD00421,2025-10-09,CUST0216,Webcam,Accessories,3,234.39,0.0,70.65,West,Ahmedabad
+ORD00251,2025-10-09,CUST0238,Smartphone,Electronics,4,1865.23,0.0,657.51,East,Patna
+ORD00637,2025-10-09,CUST0238,Bookshelf,Furniture,5,658.21,0.0,221.96,East,Patna
+ORD00562,2025-10-09,CUST0158,Monitor,Electronics,1,220.37,0.0,49.1,East,Bhubaneswar
+ORD00216,2025-10-10,CUST0034,Tablet,Electronics,1,268.87,0.05,72.51,South,Kochi
+ORD00233,2025-10-11,CUST0074,Headphones,Accessories,4,304.22,0.0,103.76,West,Mumbai
+ORD00941,2025-10-11,CUST0017,Printer,Electronics,1,145.96,0.15,19.7,East,Bhubaneswar
+ORD00288,2025-10-11,CUST0240,Mouse,Accessories,5,157.24,0.0,59.24,East,Kolkata
+ORD00038,2025-10-11,CUST0077,Tablet,Electronics,5,1126.48,0.2,65.37,East,Patna
+ORD00030,2025-10-12,CUST0170,Keyboard,Accessories,4,192.1,0.2,-4.58,East,Patna
+ORD00560,2025-10-12,CUST0124,Bookshelf,Furniture,5,550.56,0.15,101.01,South,Kochi
+ORD00308,2025-10-12,CUST0132,Mouse,Accessories,2,56.25,0.0,16.33,West,Mumbai
+ORD00092,2025-10-13,CUST0196,Laptop,Electronics,5,2831.35,0.05,835.58,South,Chennai
+ORD00484,2025-10-13,CUST0229,Webcam,Accessories,3,211.19,0.2,27.19,South,Kochi
+ORD00267,2025-10-14,CUST0119,Bookshelf,Furniture,2,217.26,0.15,29.96,North,Lucknow
+ORD00061,2025-10-14,CUST0153,Desk,Furniture,4,1017.87,0.0,250.89,South,Bengaluru
+ORD00310,2025-10-14,CUST0232,Headphones,Accessories,4,285.08,0.1,42.78,North,Jaipur
+ORD00044,2025-10-14,CUST0227,Mouse,Accessories,2,45.6,0.2,9.09,North,Jaipur
+ORD00973,2025-10-14,CUST0095,Desk,Furniture,4,783.23,0.1,216.37,North,Ghaziabad
+ORD00837,2025-10-14,CUST0158,Mouse,Accessories,2,60.04,0.0,12.83,South,Bengaluru
+ORD00981,2025-10-15,CUST0166,Smartphone,Electronics,5,1906.62,0.2,91.81,South,Bengaluru
+ORD00337,2025-10-15,CUST0130,Notebook,Stationery,4,45.07,0.0,13.66,West,Mumbai
+ORD00951,2025-10-15,CUST0011,Office Chair,Furniture,5,808.17,0.15,38.53,North,Delhi
+ORD00602,2025-10-16,CUST0112,Office Chair,Furniture,5,758.35,0.15,71.57,South,Chennai
+ORD00170,2025-10-17,CUST0165,Tablet,Electronics,5,1177.84,0.15,62.59,East,Ranchi
+ORD00645,2025-10-17,CUST0039,Printer,Electronics,1,181.38,0.05,50.81,North,Lucknow
+ORD00140,2025-10-17,CUST0053,Printer,Electronics,1,171.24,0.05,54.94,South,Bengaluru
+ORD00257,2025-10-18,CUST0173,Webcam,Accessories,2,178.05,0.0,39.5,East,Patna
+ORD00863,2025-10-19,CUST0173,Office Chair,Furniture,3,422.42,0.2,14.36,East,Bhubaneswar
+ORD00982,2025-10-19,CUST0134,Smartphone,Electronics,5,1941.9,0.15,501.3,North,Ghaziabad
+ORD00480,2025-10-19,CUST0174,Webcam,Accessories,1,82.79,0.1,16.88,North,Ghaziabad
+ORD00919,2025-10-19,CUST0034,Keyboard,Accessories,1,45.08,0.2,5.04,North,Jaipur
+ORD00628,2025-10-20,CUST0165,Tablet,Electronics,2,558.36,0.0,201.15,South,Bengaluru
+ORD00452,2025-10-20,CUST0209,Pen Set,Stationery,4,23.22,0.2,1.11,East,Ranchi
+ORD00024,2025-10-20,CUST0148,Monitor,Electronics,2,346.5,0.15,17.49,West,Surat
+ORD00411,2025-10-21,CUST0101,Webcam,Accessories,2,122.45,0.2,6.06,West,Pune
+ORD00817,2025-10-21,CUST0171,Laptop,Electronics,4,2701.99,0.05,509.59,West,Ahmedabad
+ORD00967,2025-10-21,CUST0173,Webcam,Accessories,3,250.34,0.05,44.01,South,Hyderabad
+ORD00473,2025-10-21,CUST0172,Office Chair,Furniture,1,186.18,0.0,36.98,West,Pune
+ORD00525,2025-10-21,CUST0153,Pen Set,Stationery,5,31.56,0.15,8.23,West,Mumbai
+ORD00210,2025-10-21,CUST0036,Headphones,Accessories,4,277.7,0.05,51.85,North,Ghaziabad
+ORD00164,2025-10-22,CUST0110,Notebook,Stationery,1,11.71,0.1,1.4,North,Lucknow
+ORD00650,2025-10-22,CUST0023,Backpack,Bags,1,65.17,0.05,18.2,South,Chennai
+ORD00585,2025-10-22,CUST0176,Mouse,Accessories,3,75.81,0.1,21.37,West,Surat
+ORD00075,2025-10-22,CUST0174,Backpack,Bags,3,198.07,0.0,38.47,North,Ghaziabad
+ORD00579,2025-10-22,CUST0223,Backpack,Bags,4,252.96,0.05,61.65,North,Delhi
+ORD00555,2025-10-22,CUST0026,Bookshelf,Furniture,5,562.42,0.2,8.83,East,Patna
+ORD00066,2025-10-22,CUST0098,Monitor,Electronics,5,795.44,0.2,3.85,East,Ranchi
+ORD00737,2025-10-23,CUST0128,Notebook,Stationery,3,33.74,0.0,8.74,East,Ranchi
+ORD00557,2025-10-23,CUST0134,Desk,Furniture,2,500.08,0.0,111.08,East,Patna
+ORD00689,2025-10-23,CUST0215,Tablet,Electronics,3,780.42,0.0,291.5,South,Bengaluru
+ORD00416,2025-10-23,CUST0167,Headphones,Accessories,3,186.48,0.15,14.09,East,Ranchi
+ORD00373,2025-10-23,CUST0161,Pen Set,Stationery,4,30.55,0.05,8.92,North,Jaipur
+ORD00642,2025-10-23,CUST0210,Smartphone,Electronics,2,862.76,0.1,136.2,West,Surat
+ORD00240,2025-10-23,CUST0059,Pen Set,Stationery,3,20.29,0.2,0.63,North,Lucknow
+ORD00268,2025-10-24,CUST0019,Printer,Electronics,4,767.7,0.05,146.14,West,Mumbai
+ORD00055,2025-10-24,CUST0156,Backpack,Bags,5,312.25,0.0,105.53,West,Surat
+ORD00049,2025-10-25,CUST0247,Printer,Electronics,1,204.33,0.0,66.97,East,Patna
+ORD00198,2025-10-25,CUST0189,Bookshelf,Furniture,2,214.54,0.2,42.72,North,Jaipur
+ORD00173,2025-10-25,CUST0142,Notebook,Stationery,1,10.39,0.15,1.87,West,Mumbai
+ORD00679,2025-10-27,CUST0241,Laptop,Electronics,4,2715.78,0.0,970.53,South,Kochi
+ORD00012,2025-10-27,CUST0110,Tablet,Electronics,2,453.5,0.2,72.25,West,Pune
+ORD00123,2025-10-28,CUST0077,Bookshelf,Furniture,5,594.6,0.0,113.54,East,Patna
+ORD00022,2025-10-29,CUST0057,Smartphone,Electronics,1,386.55,0.05,89.2,South,Chennai
+ORD00166,2025-10-29,CUST0103,Backpack,Bags,1,62.53,0.1,16.07,East,Patna
+ORD00680,2025-10-30,CUST0230,Pen Set,Stationery,4,30.1,0.05,9.32,South,Kochi
+ORD00723,2025-10-30,CUST0111,Desk,Furniture,4,929.42,0.0,201.89,South,Kochi
+ORD00278,2025-10-30,CUST0226,Keyboard,Accessories,4,199.6,0.05,45.94,South,Chennai
+ORD00745,2025-10-30,CUST0190,Tablet,Electronics,3,880.56,0.0,228.27,West,Ahmedabad
+ORD00793,2025-10-30,CUST0243,Notebook,Stationery,3,32.91,0.1,3.71,South,Chennai
+ORD00160,2025-10-31,CUST0125,Keyboard,Accessories,3,136.94,0.1,21.96,South,Bengaluru
+ORD00768,2025-10-31,CUST0062,Printer,Electronics,2,356.68,0.0,84.2,East,Bhubaneswar
+ORD00363,2025-11-01,CUST0019,Printer,Electronics,4,631.02,0.1,126.26,North,Ghaziabad
+ORD00304,2025-11-01,CUST0102,Smartphone,Electronics,1,436.49,0.05,95.21,East,Bhubaneswar
+ORD00344,2025-11-02,CUST0138,Tablet,Electronics,2,567.85,0.0,155.33,South,Chennai
+ORD00141,2025-11-02,CUST0001,Smartphone,Electronics,2,901.92,0.05,163.55,South,Chennai
+ORD00905,2025-11-02,CUST0066,Tablet,Electronics,2,437.56,0.2,52.15,West,Surat
+ORD00556,2025-11-03,CUST0225,Headphones,Accessories,4,324.61,0.0,117.91,South,Hyderabad
+ORD00830,2025-11-03,CUST0191,Pen Set,Stationery,1,7.59,0.05,1.09,South,Bengaluru
+ORD00850,2025-11-04,CUST0189,Keyboard,Accessories,3,137.09,0.1,34.01,North,Delhi
+ORD00361,2025-11-04,CUST0154,Headphones,Accessories,2,146.62,0.05,43.27,West,Pune
+ORD00445,2025-11-04,CUST0206,Keyboard,Accessories,1,53.57,0.1,8.96,East,Kolkata
+ORD00920,2025-11-05,CUST0098,Monitor,Electronics,3,692.18,0.0,187.28,North,Jaipur
+ORD00002,2025-11-05,CUST0007,Pen Set,Stationery,1,7.35,0.0,2.45,North,Lucknow
+ORD00665,2025-11-06,CUST0085,Monitor,Electronics,5,1083.82,0.0,344.14,East,Bhubaneswar
+ORD00489,2025-11-06,CUST0247,Headphones,Accessories,5,286.89,0.15,71.5,East,Kolkata
+ORD00932,2025-11-06,CUST0067,Printer,Electronics,3,537.06,0.0,195.68,East,Patna
+ORD00858,2025-11-06,CUST0174,Smartphone,Electronics,4,1303.7,0.2,234.96,North,Delhi
+ORD00222,2025-11-06,CUST0087,Backpack,Bags,5,257.14,0.15,29.72,North,Ghaziabad
+ORD00674,2025-11-08,CUST0189,Backpack,Bags,4,256.23,0.0,57.59,East,Patna
+ORD00999,2025-11-08,CUST0122,Monitor,Electronics,1,163.11,0.2,-0.9,East,Patna
+ORD00234,2025-11-09,CUST0031,Smartphone,Electronics,5,2276.57,0.05,492.1,East,Ranchi
+ORD00678,2025-11-10,CUST0236,Keyboard,Accessories,3,155.54,0.05,40.2,East,Ranchi
+ORD00940,2025-11-10,CUST0240,Notebook,Stationery,1,10.58,0.1,2.08,East,Patna
+ORD00693,2025-11-10,CUST0015,Notebook,Stationery,5,54.27,0.1,8.5,West,Ahmedabad
+ORD00537,2025-11-11,CUST0176,Office Chair,Furniture,3,414.07,0.15,88.77,North,Lucknow
+ORD00207,2025-11-11,CUST0112,Webcam,Accessories,4,355.42,0.0,70.26,East,Patna
+ORD00552,2025-11-11,CUST0154,Laptop,Electronics,2,1015.78,0.15,161.12,South,Kochi
+ORD00760,2025-11-11,CUST0165,Headphones,Accessories,1,75.61,0.0,22.21,South,Kochi
+ORD00934,2025-11-12,CUST0093,Office Chair,Furniture,5,718.09,0.2,50.54,East,Ranchi
+ORD00228,2025-11-12,CUST0108,Office Chair,Furniture,1,172.45,0.0,52.28,South,Chennai
+ORD00237,2025-11-12,CUST0190,Office Chair,Furniture,3,442.34,0.15,78.79,South,Chennai
+ORD00718,2025-11-12,CUST0067,Smartphone,Electronics,4,1533.07,0.1,400.71,East,Patna
+ORD00657,2025-11-13,CUST0070,Headphones,Accessories,2,143.52,0.0,31.88,North,Jaipur
+ORD00722,2025-11-14,CUST0063,Desk,Furniture,5,1058.58,0.1,232.08,North,Jaipur
+ORD00625,2025-11-14,CUST0062,Office Chair,Furniture,2,368.62,0.0,113.23,North,Lucknow
+ORD00133,2025-11-14,CUST0227,Webcam,Accessories,3,263.92,0.0,75.41,West,Surat
+ORD00336,2025-11-14,CUST0014,Tablet,Electronics,3,787.43,0.0,166.62,South,Kochi
+ORD00380,2025-11-15,CUST0063,Smartphone,Electronics,3,1293.73,0.0,288.63,East,Kolkata
+ORD00712,2025-11-15,CUST0144,Bookshelf,Furniture,3,363.28,0.0,129.73,East,Kolkata
+ORD00052,2025-11-16,CUST0081,Pen Set,Stationery,4,34.87,0.0,6.83,South,Hyderabad
+ORD00652,2025-11-16,CUST0038,Bookshelf,Furniture,3,352.82,0.15,28.82,West,Pune
+ORD00116,2025-11-16,CUST0178,Tablet,Electronics,1,266.19,0.1,67.14,East,Bhubaneswar
+ORD00462,2025-11-17,CUST0188,Monitor,Electronics,3,526.28,0.15,58.6,West,Mumbai
+ORD00096,2025-11-17,CUST0151,Monitor,Electronics,4,912.98,0.0,178.23,West,Ahmedabad
+ORD00664,2025-11-17,CUST0176,Headphones,Accessories,4,278.49,0.15,35.22,South,Bengaluru
+ORD00936,2025-11-17,CUST0220,Monitor,Electronics,4,654.04,0.2,107.63,North,Ghaziabad
+ORD00696,2025-11-17,CUST0204,Bookshelf,Furniture,3,351.12,0.0,131.74,South,Chennai
+ORD00221,2025-11-17,CUST0078,Keyboard,Accessories,2,96.03,0.2,15.02,North,Jaipur
+ORD00347,2025-11-18,CUST0107,Tablet,Electronics,4,935.86,0.1,159.64,West,Pune
+ORD00430,2025-11-18,CUST0038,Monitor,Electronics,4,965.94,0.0,282.95,South,Bengaluru
+ORD00807,2025-11-18,CUST0006,Tablet,Electronics,2,468.77,0.1,124.56,West,Mumbai
+ORD00091,2025-11-19,CUST0176,Laptop,Electronics,1,637.09,0.0,232.65,West,Surat
+ORD00587,2025-11-19,CUST0133,Webcam,Accessories,1,83.67,0.0,29.55,South,Kochi
+ORD00777,2025-11-20,CUST0157,Mouse,Accessories,2,46.32,0.15,11.45,South,Kochi
+ORD00343,2025-11-20,CUST0110,Smartphone,Electronics,5,1746.23,0.2,82.62,South,Chennai
+ORD00878,2025-11-21,CUST0053,Printer,Electronics,4,774.01,0.05,120.4,West,Surat
+ORD00459,2025-11-21,CUST0015,Mouse,Accessories,4,116.99,0.05,36.29,South,Bengaluru
+ORD00441,2025-11-22,CUST0237,Pen Set,Stationery,3,24.28,0.05,5.86,West,Pune
+ORD00727,2025-11-22,CUST0208,Office Chair,Furniture,2,387.88,0.0,77.32,North,Delhi
+ORD00078,2025-11-22,CUST0229,Desk,Furniture,4,795.84,0.1,77.68,West,Mumbai
+ORD00321,2025-11-23,CUST0235,Pen Set,Stationery,3,20.72,0.2,1.88,East,Kolkata
+ORD00293,2025-11-23,CUST0171,Webcam,Accessories,2,143.23,0.15,36.72,South,Bengaluru
+ORD00089,2025-11-23,CUST0223,Tablet,Electronics,1,228.11,0.15,11.06,West,Mumbai
+ORD00697,2025-11-23,CUST0055,Smartphone,Electronics,4,1740.17,0.0,466.22,South,Kochi
+ORD00449,2025-11-24,CUST0084,Printer,Electronics,1,156.08,0.1,14.27,West,Ahmedabad
+ORD00593,2025-11-24,CUST0207,Smartphone,Electronics,4,1571.5,0.2,12.47,East,Patna
+ORD00565,2025-11-24,CUST0127,Headphones,Accessories,5,408.43,0.0,88.2,East,Patna
+ORD00514,2025-11-25,CUST0158,Bookshelf,Furniture,1,100.8,0.2,16.63,East,Kolkata
+ORD00894,2025-11-25,CUST0035,Mouse,Accessories,1,24.68,0.2,1.67,East,Kolkata
+ORD00187,2025-11-25,CUST0124,Desk,Furniture,2,378.49,0.15,80.15,East,Bhubaneswar
+ORD00279,2025-11-26,CUST0172,Webcam,Accessories,5,347.84,0.1,81.6,South,Kochi
+ORD00011,2025-11-26,CUST0118,Smartphone,Electronics,2,719.89,0.2,2.76,South,Hyderabad
+ORD00855,2025-11-26,CUST0242,Monitor,Electronics,3,556.09,0.2,42.59,East,Ranchi
+ORD00891,2025-11-26,CUST0105,Smartphone,Electronics,2,974.86,0.0,247.35,South,Hyderabad
+ORD00035,2025-11-27,CUST0077,Pen Set,Stationery,3,22.87,0.0,8.09,West,Pune
+ORD00393,2025-11-27,CUST0022,Notebook,Stationery,2,21.05,0.1,3.6,South,Chennai
+ORD00595,2025-11-27,CUST0102,Mouse,Accessories,3,69.0,0.2,10.91,South,Hyderabad
+ORD00335,2025-11-27,CUST0239,Tablet,Electronics,2,517.66,0.1,81.28,East,Ranchi
+ORD00322,2025-11-27,CUST0174,Smartphone,Electronics,3,1389.69,0.0,515.77,North,Ghaziabad
+ORD00270,2025-11-27,CUST0247,Office Chair,Furniture,4,758.73,0.0,172.1,North,Jaipur
+ORD00505,2025-11-28,CUST0144,Mouse,Accessories,5,125.75,0.2,1.11,East,Kolkata
+ORD00765,2025-11-28,CUST0024,Backpack,Bags,3,159.89,0.1,14.32,West,Ahmedabad
+ORD00368,2025-11-29,CUST0175,Desk,Furniture,5,1115.09,0.05,238.45,South,Chennai
+ORD00314,2025-11-30,CUST0250,Notebook,Stationery,4,44.97,0.05,7.83,East,Patna
+ORD00231,2025-12-01,CUST0173,Monitor,Electronics,1,210.38,0.0,54.8,South,Hyderabad
+ORD00994,2025-12-01,CUST0249,Pen Set,Stationery,1,7.86,0.1,1.36,East,Kolkata
+ORD00922,2025-12-01,CUST0040,Notebook,Stationery,4,41.34,0.1,5.95,South,Chennai
+ORD00341,2025-12-01,CUST0193,Notebook,Stationery,5,65.88,0.0,23.69,North,Lucknow
+ORD00752,2025-12-02,CUST0150,Mouse,Accessories,3,81.52,0.05,26.63,East,Patna
+ORD00651,2025-12-02,CUST0007,Smartphone,Electronics,3,1203.11,0.05,330.66,East,Ranchi
+ORD00169,2025-12-02,CUST0020,Smartphone,Electronics,2,918.43,0.0,209.36,South,Hyderabad
+ORD00329,2025-12-03,CUST0111,Desk,Furniture,2,443.21,0.1,119.53,East,Ranchi
+ORD00633,2025-12-03,CUST0064,Monitor,Electronics,2,365.42,0.15,82.27,North,Delhi
+ORD00756,2025-12-03,CUST0196,Backpack,Bags,1,69.63,0.0,24.65,South,Bengaluru
+ORD00370,2025-12-03,CUST0190,Pen Set,Stationery,4,27.79,0.15,5.5,East,Kolkata
+ORD00156,2025-12-03,CUST0103,Webcam,Accessories,3,238.75,0.0,83.88,West,Ahmedabad
+ORD00127,2025-12-04,CUST0175,Bookshelf,Furniture,2,195.11,0.2,31.68,South,Hyderabad
+ORD00710,2025-12-04,CUST0191,Pen Set,Stationery,3,23.28,0.1,6.71,North,Delhi
+ORD00658,2025-12-04,CUST0093,Laptop,Electronics,1,603.76,0.1,98.88,East,Kolkata
+ORD00491,2025-12-04,CUST0057,Office Chair,Furniture,3,427.9,0.2,85.86,West,Surat
+ORD00125,2025-12-04,CUST0102,Monitor,Electronics,5,1147.97,0.05,327.42,East,Patna
+ORD00422,2025-12-05,CUST0161,Office Chair,Furniture,3,532.18,0.0,170.88,South,Bengaluru
+ORD00959,2025-12-05,CUST0225,Bookshelf,Furniture,5,712.11,0.0,131.03,North,Ghaziabad
+ORD00271,2025-12-05,CUST0224,Headphones,Accessories,4,263.28,0.1,41.96,West,Surat
+ORD00578,2025-12-06,CUST0127,Monitor,Electronics,2,406.55,0.0,148.11,South,Hyderabad
+ORD00915,2025-12-06,CUST0150,Notebook,Stationery,2,19.23,0.2,3.01,West,Pune
+ORD00762,2025-12-07,CUST0100,Office Chair,Furniture,2,296.08,0.2,-2.44,North,Lucknow
+ORD00955,2025-12-07,CUST0063,Tablet,Electronics,3,706.25,0.2,95.23,North,Jaipur
+ORD00426,2025-12-08,CUST0025,Office Chair,Furniture,3,418.76,0.15,39.19,West,Pune
+ORD00081,2025-12-09,CUST0098,Pen Set,Stationery,4,33.6,0.0,8.94,North,Jaipur
+ORD00656,2025-12-09,CUST0005,Monitor,Electronics,5,966.65,0.2,49.53,West,Surat
+ORD00875,2025-12-10,CUST0196,Printer,Electronics,4,649.97,0.1,127.77,West,Pune
+ORD00716,2025-12-10,CUST0208,Webcam,Accessories,3,257.63,0.05,50.83,East,Patna
+ORD00453,2025-12-10,CUST0092,Monitor,Electronics,5,930.14,0.2,-1.52,West,Pune
+ORD00870,2025-12-12,CUST0053,Backpack,Bags,5,345.04,0.0,124.21,East,Patna
+ORD00582,2025-12-12,CUST0054,Tablet,Electronics,5,1213.54,0.1,375.27,East,Kolkata
+ORD00100,2025-12-12,CUST0215,Laptop,Electronics,5,2794.72,0.05,836.11,East,Patna
+ORD00800,2025-12-12,CUST0094,Backpack,Bags,5,323.31,0.05,108.58,South,Bengaluru
+ORD00001,2025-12-13,CUST0190,Printer,Electronics,3,538.45,0.0,125.3,North,Delhi
+ORD00444,2025-12-13,CUST0053,Headphones,Accessories,5,401.78,0.0,100.65,North,Ghaziabad
+ORD00818,2025-12-14,CUST0142,Tablet,Electronics,1,223.06,0.2,47.95,East,Patna
+ORD00345,2025-12-14,CUST0209,Tablet,Electronics,3,680.78,0.15,46.77,West,Ahmedabad
+ORD00218,2025-12-15,CUST0133,Bookshelf,Furniture,2,254.03,0.05,64.18,East,Kolkata
+ORD00559,2025-12-15,CUST0102,Headphones,Accessories,5,341.87,0.1,59.88,West,Ahmedabad
+ORD00121,2025-12-16,CUST0062,Printer,Electronics,2,388.32,0.0,117.85,South,Chennai
+ORD00754,2025-12-17,CUST0115,Desk,Furniture,1,235.74,0.0,64.82,North,Delhi
+ORD00506,2025-12-17,CUST0081,Headphones,Accessories,1,65.98,0.1,6.5,South,Hyderabad
+ORD00923,2025-12-17,CUST0155,Smartphone,Electronics,4,1528.23,0.2,225.38,West,Surat
+ORD00581,2025-12-18,CUST0199,Desk,Furniture,5,1200.59,0.0,361.68,East,Ranchi
+ORD00522,2025-12-18,CUST0078,Printer,Electronics,1,195.95,0.05,63.69,North,Delhi
+ORD00867,2025-12-19,CUST0017,Laptop,Electronics,2,1000.92,0.2,203.95,South,Chennai
+ORD00618,2025-12-19,CUST0153,Smartphone,Electronics,1,457.3,0.0,110.6,East,Bhubaneswar
+ORD00472,2025-12-19,CUST0239,Webcam,Accessories,2,171.64,0.0,33.98,East,Patna
+ORD00840,2025-12-19,CUST0059,Webcam,Accessories,1,78.69,0.0,18.98,West,Mumbai
+ORD00324,2025-12-20,CUST0129,Desk,Furniture,3,643.21,0.1,102.97,South,Kochi
+ORD00183,2025-12-21,CUST0198,Printer,Electronics,5,795.88,0.1,215.62,West,Pune
+ORD00832,2025-12-21,CUST0035,Desk,Furniture,2,371.97,0.15,72.67,North,Jaipur
+ORD00789,2025-12-21,CUST0146,Tablet,Electronics,3,750.47,0.05,240.59,East,Bhubaneswar
+ORD00530,2025-12-22,CUST0150,Smartphone,Electronics,4,1564.38,0.1,257.45,South,Hyderabad
+ORD00297,2025-12-23,CUST0058,Bookshelf,Furniture,3,348.12,0.1,89.49,East,Kolkata
+ORD00436,2025-12-23,CUST0176,Keyboard,Accessories,3,150.82,0.05,25.63,West,Mumbai
+ORD00053,2025-12-23,CUST0076,Printer,Electronics,5,932.62,0.05,259.92,North,Jaipur
+ORD00835,2025-12-24,CUST0177,Bookshelf,Furniture,3,330.71,0.2,51.96,South,Hyderabad
+ORD00648,2025-12-24,CUST0034,Office Chair,Furniture,3,529.04,0.0,155.06,North,Lucknow
+ORD00847,2025-12-24,CUST0151,Bookshelf,Furniture,2,236.53,0.15,37.58,North,Delhi
+ORD00717,2025-12-24,CUST0120,Desk,Furniture,5,1102.3,0.0,241.99,North,Lucknow
+ORD00349,2025-12-24,CUST0092,Office Chair,Furniture,1,157.6,0.2,10.45,West,Mumbai
+ORD00403,2025-12-24,CUST0092,Monitor,Electronics,2,416.82,0.0,131.88,East,Patna
+ORD00584,2025-12-25,CUST0193,Keyboard,Accessories,3,164.96,0.0,55.74,East,Patna
+ORD00889,2025-12-25,CUST0093,Printer,Electronics,2,364.81,0.05,102.97,North,Delhi
+ORD00634,2025-12-26,CUST0171,Backpack,Bags,1,52.8,0.2,2.98,South,Kochi
+ORD00008,2025-12-26,CUST0240,Keyboard,Accessories,2,101.48,0.05,20.94,East,Patna
+ORD00713,2025-12-27,CUST0206,Desk,Furniture,5,1151.26,0.05,334.22,North,Ghaziabad
+ORD00568,2025-12-27,CUST0018,Keyboard,Accessories,4,201.41,0.1,39.49,East,Patna
+ORD00862,2025-12-28,CUST0043,Office Chair,Furniture,2,315.76,0.15,27.54,North,Delhi
+ORD00511,2025-12-29,CUST0082,Mouse,Accessories,4,103.02,0.15,26.11,North,Jaipur
+ORD00088,2025-12-29,CUST0137,Keyboard,Accessories,3,160.41,0.0,51.26,North,Ghaziabad
+ORD00327,2025-12-30,CUST0030,Office Chair,Furniture,4,624.79,0.05,211.16,North,Lucknow
+ORD00913,2025-12-30,CUST0144,Tablet,Electronics,1,228.86,0.1,53.07,East,Ranchi
+ORD00681,2025-12-31,CUST0204,Webcam,Accessories,1,77.91,0.05,16.43,South,Kochi
+ORD00147,2025-12-31,CUST0084,Backpack,Bags,2,126.57,0.05,28.37,South,Bengaluru
